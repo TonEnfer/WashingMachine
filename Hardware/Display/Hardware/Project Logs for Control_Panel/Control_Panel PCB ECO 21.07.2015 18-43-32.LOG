@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=LED6 Pin=DD1-15
+Removed Pin From Net: NetName=LED7 Pin=DD1-16
+Removed Pin From Net: NetName=LED5 Pin=DD1-21
+Removed Pin From Net: NetName=LED1 Pin=DD1-22
+Removed Pin From Net: NetName=LED2 Pin=DD1-23
+Removed Pin From Net: NetName=LED8 Pin=DD1-24
+Removed Pin From Net: NetName=LED3 Pin=DD1-25
+Removed Pin From Net: NetName=LED4 Pin=DD1-26
+Removed Pin From Net: NetName=SENS7 Pin=DD1-30
+Removed Pin From Net: NetName=SENS8 Pin=DD1-31
+Removed Pin From Net: NetName=SENS4 Pin=DD1-32
+Removed Pin From Net: NetName=SENS3 Pin=DD1-33
+Removed Pin From Net: NetName=SENS2 Pin=DD1-34
+Removed Pin From Net: NetName=SENS1 Pin=DD1-35
+Removed Pin From Net: NetName=SENS5 Pin=DD1-36
+Removed Pin From Net: NetName=SENS6 Pin=DD1-37
+Removed Pin From Net: NetName=+5V Pin=HL10-A
+Added Pin To Net: NetName=LED1 Pin=DD1-15
+Added Pin To Net: NetName=LED2 Pin=DD1-16
+Added Pin To Net: NetName=LED3 Pin=DD1-21
+Added Pin To Net: NetName=LED4 Pin=DD1-22
+Added Pin To Net: NetName=LED5 Pin=DD1-23
+Added Pin To Net: NetName=LED6 Pin=DD1-24
+Added Pin To Net: NetName=LED7 Pin=DD1-25
+Added Pin To Net: NetName=LED8 Pin=DD1-26
+Added Pin To Net: NetName=SENS1 Pin=DD1-30
+Added Pin To Net: NetName=SENS2 Pin=DD1-31
+Added Pin To Net: NetName=SENS3 Pin=DD1-32
+Added Pin To Net: NetName=SENS4 Pin=DD1-33
+Added Pin To Net: NetName=SENS5 Pin=DD1-34
+Added Pin To Net: NetName=SENS6 Pin=DD1-35
+Added Pin To Net: NetName=SENS7 Pin=DD1-36
+Added Pin To Net: NetName=SENS8 Pin=DD1-37
+Change Net Name : Old Net Name=NetDD2_15 New Net Name=LED_AN1
+Change Net Name : Old Net Name=NetDD2_16 New Net Name=LED_AN2
+Change Net Name : Old Net Name=NetDD2_21 New Net Name=LED_AN3
+Change Net Name : Old Net Name=NetDD2_22 New Net Name=LED_AN4
+Change Net Name : Old Net Name=NetDD2_23 New Net Name=LED_AN5
+Change Net Name : Old Net Name=NetDD2_24 New Net Name=LED_AN6
+Change Net Name : Old Net Name=NetDD2_25 New Net Name=LED_AN7
+Change Net Name : Old Net Name=NetDD2_26 New Net Name=LED_AN8

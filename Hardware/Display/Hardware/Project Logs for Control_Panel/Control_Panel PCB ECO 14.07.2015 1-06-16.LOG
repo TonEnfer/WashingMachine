@@ -1,0 +1,97 @@
+Removed Pin From Net: NetName=NetHL13_2 Pin=HL13-2
+Removed Pin From Net: NetName=NetHL13_2 Pin=R11-2
+Removed Pin From Net: NetName=NetR35_1 Pin=VT11-1
+Removed Pin From Net: NetName=NetR34_1 Pin=VT12-1
+Added Component: Designator=DD1(44ML_M)
+Added Component: Designator=DD2(44ML_M)
+Added Component: Designator=XS3(PLS-08R2)
+Added Pin To Net: NetName=NetDD1_1 Pin=DD1-1
+Added Pin To Net: NetName=NetDD1_2 Pin=DD1-2
+Added Pin To Net: NetName=NetDD1_3 Pin=DD1-3
+Added Pin To Net: NetName=NetDD1_4 Pin=DD1-4
+Added Pin To Net: NetName=NetC6_1 Pin=DD1-5
+Added Pin To Net: NetName=GND Pin=DD1-6
+Added Pin To Net: NetName=RX1 Pin=DD1-9
+Added Pin To Net: NetName=TX1 Pin=DD1-10
+Added Pin To Net: NetName=INT10 Pin=DD1-11
+Added Pin To Net: NetName=INT11 Pin=DD1-12
+Added Pin To Net: NetName=LED1 Pin=DD1-15
+Added Pin To Net: NetName=LED2 Pin=DD1-16
+Added Pin To Net: NetName=NetC7_1 Pin=DD1-17
+Added Pin To Net: NetName=GND Pin=DD1-18
+Added Pin To Net: NetName=SCL1 Pin=DD1-19
+Added Pin To Net: NetName=SDA1 Pin=DD1-20
+Added Pin To Net: NetName=LED3 Pin=DD1-21
+Added Pin To Net: NetName=LED4 Pin=DD1-22
+Added Pin To Net: NetName=LED5 Pin=DD1-23
+Added Pin To Net: NetName=LED6 Pin=DD1-24
+Added Pin To Net: NetName=LED7 Pin=DD1-25
+Added Pin To Net: NetName=LED8 Pin=DD1-26
+Added Pin To Net: NetName=NetC10_2 Pin=DD1-27
+Added Pin To Net: NetName=GND Pin=DD1-28
+Added Pin To Net: NetName=NetC9_1 Pin=DD1-29
+Added Pin To Net: NetName=SENS1 Pin=DD1-30
+Added Pin To Net: NetName=SENS2 Pin=DD1-31
+Added Pin To Net: NetName=SENS3 Pin=DD1-32
+Added Pin To Net: NetName=SENS4 Pin=DD1-33
+Added Pin To Net: NetName=SENS5 Pin=DD1-34
+Added Pin To Net: NetName=SENS6 Pin=DD1-35
+Added Pin To Net: NetName=SENS7 Pin=DD1-36
+Added Pin To Net: NetName=SENS8 Pin=DD1-37
+Added Pin To Net: NetName=NetC8_1 Pin=DD1-38
+Added Pin To Net: NetName=GND Pin=DD1-39
+Added Pin To Net: NetName=NetDD2_1 Pin=DD2-1
+Added Pin To Net: NetName=NetDD2_2 Pin=DD2-2
+Added Pin To Net: NetName=NetDD2_3 Pin=DD2-3
+Added Pin To Net: NetName=NetDD2_4 Pin=DD2-4
+Added Pin To Net: NetName=NetC11_1 Pin=DD2-5
+Added Pin To Net: NetName=GND Pin=DD2-6
+Added Pin To Net: NetName=RX2 Pin=DD2-9
+Added Pin To Net: NetName=TX2 Pin=DD2-10
+Added Pin To Net: NetName=INT10 Pin=DD2-11
+Added Pin To Net: NetName=INT11 Pin=DD2-12
+Added Pin To Net: NetName=NetDD2_15 Pin=DD2-15
+Added Pin To Net: NetName=NetDD2_16 Pin=DD2-16
+Added Pin To Net: NetName=NetC12_1 Pin=DD2-17
+Added Pin To Net: NetName=GND Pin=DD2-18
+Added Pin To Net: NetName=SCL1 Pin=DD2-19
+Added Pin To Net: NetName=SDA1 Pin=DD2-20
+Added Pin To Net: NetName=NetDD2_21 Pin=DD2-21
+Added Pin To Net: NetName=NetDD2_22 Pin=DD2-22
+Added Pin To Net: NetName=NetDD2_23 Pin=DD2-23
+Added Pin To Net: NetName=NetDD2_24 Pin=DD2-24
+Added Pin To Net: NetName=NetDD2_25 Pin=DD2-25
+Added Pin To Net: NetName=NetDD2_26 Pin=DD2-26
+Added Pin To Net: NetName=NetC15_2 Pin=DD2-27
+Added Pin To Net: NetName=GND Pin=DD2-28
+Added Pin To Net: NetName=NetC14_1 Pin=DD2-29
+Added Pin To Net: NetName=NetDD2_30 Pin=DD2-30
+Added Pin To Net: NetName=GND Pin=DD2-31
+Added Pin To Net: NetName=GND Pin=DD2-32
+Added Pin To Net: NetName=STOP_BUTTON Pin=DD2-33
+Added Pin To Net: NetName=LED_A1 Pin=DD2-34
+Added Pin To Net: NetName=LED_A2 Pin=DD2-35
+Added Pin To Net: NetName=LED_A3 Pin=DD2-36
+Added Pin To Net: NetName=LED_A4 Pin=DD2-37
+Added Pin To Net: NetName=NetC13_1 Pin=DD2-38
+Added Pin To Net: NetName=GND Pin=DD2-39
+Added Pin To Net: NetName=GND Pin=HL13-2
+Added Pin To Net: NetName=NetHL11_2 Pin=R11-2
+Added Pin To Net: NetName=NetDD2_1 Pin=VT11-1
+Added Pin To Net: NetName=NetDD2_2 Pin=VT12-1
+Added Pin To Net: NetName=~15V_PHASE Pin=XS3-1
+Added Pin To Net: NetName=~15V_ZERO Pin=XS3-2
+Added Pin To Net: NetName=INT10 Pin=XS3-3
+Added Pin To Net: NetName=INT11 Pin=XS3-4
+Added Pin To Net: NetName=SCL1 Pin=XS3-5
+Added Pin To Net: NetName=SDA1 Pin=XS3-6
+Added Pin To Net: NetName=STOP_BUTTON Pin=XS3-7
+Added Pin To Net: NetName=GND Pin=XS3-8
+Added Member To Class: ClassName=U_Control_Panel Member=Component DD1 Atmega324P-20AU
+Added Member To Class: ClassName=U_Control_Panel_Part2 Member=Component DD2 Atmega324P-20AU
+Added Member To Class: ClassName=TopShem Member=Component XS3 PLS-08R
+Added Room: Name=TopShem
+Added Room: Name=TransistorArray
+Added Room: Name=U_Control_Panel
+Added Room: Name=U_Control_Panel_Part2
+Added Room: Name=U_Control_Panel_Power

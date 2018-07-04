@@ -1,0 +1,17 @@
+Replace Part HL1 LED1_R in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Вода\DCMotorDriver.SchDoc with LED1_R from Indicator.SchLib
+Replace Part HL2 LED1_R in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Вода\DCMotorDriver.SchDoc with LED1_R from Indicator.SchLib
+Replace Part K1 TRU-5VDC-SB-CL in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Вода\DCMotorDriver.SchDoc with TRU-5VDC-SB-CL from Switch.SchLib
+Replace Part K1 TRU-5VDC-SB-CL in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Вода\DCMotorDriver.SchDoc with TRU-5VDC-SB-CL from Switch.SchLib
+Replace Part K2 TRU-5VDC-SB-CL in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Вода\DCMotorDriver.SchDoc with TRU-5VDC-SB-CL from Switch.SchLib
+Replace Part K2 TRU-5VDC-SB-CL in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Вода\DCMotorDriver.SchDoc with TRU-5VDC-SB-CL from Switch.SchLib
+Replace Part R2 Resistor in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Вода\DCMotorDriver.SchDoc with Resistor from library.DbLib
+Replace Part R3 Resistor in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Вода\DCMotorDriver.SchDoc with Resistor from library.DbLib
+Replace Part R4 Resistor in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Вода\DCMotorDriver.SchDoc with Resistor from library.DbLib
+Replace Part R5 Resistor in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Вода\DCMotorDriver.SchDoc with Resistor from library.DbLib
+Replace Part R6 Resistor in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Вода\DCMotorDriver.SchDoc with Resistor from library.DbLib
+Replace Part R7 Resistor in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Вода\DCMotorDriver.SchDoc with Resistor from library.DbLib
+Replace Part VD1 1N4001 in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Вода\DCMotorDriver.SchDoc with 1N4001 from Diod.SchLib
+Replace Part VD2 1N4001 in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Вода\DCMotorDriver.SchDoc with 1N4001 from Diod.SchLib
+Replace Part VT1 2N7002 n-MOSFET in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Вода\DCMotorDriver.SchDoc with 2N7002 n-MOSFET from Transistor.SchLib
+Replace Part VT2 2N7002 n-MOSFET in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Вода\DCMotorDriver.SchDoc with 2N7002 n-MOSFET from Transistor.SchLib
+Replace Part XT6 Con2_D 330-021-12 in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Вода\DCMotorDriver.SchDoc with Con2_D 330-021-12 from Connector.SchLib

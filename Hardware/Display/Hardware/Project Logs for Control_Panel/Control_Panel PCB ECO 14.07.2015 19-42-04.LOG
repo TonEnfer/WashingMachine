@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=DD2-31
+Removed Pin From Net: NetName=GND Pin=DD2-32
+Removed Pin From Net: NetName=GND Pin=DD2-33
+Removed Pin From Net: NetName=LED_A1 Pin=DD2-34
+Removed Pin From Net: NetName=LED_A2 Pin=DD2-35
+Removed Pin From Net: NetName=LED_A3 Pin=DD2-36
+Removed Pin From Net: NetName=LED_A4 Pin=DD2-37
+Added Pin To Net: NetName=LED_A1 Pin=DD2-30
+Added Pin To Net: NetName=LED_A2 Pin=DD2-31
+Added Pin To Net: NetName=LED_A3 Pin=DD2-32
+Added Pin To Net: NetName=LED_A4 Pin=DD2-33
+Added Pin To Net: NetName=GND Pin=DD2-34
+Added Pin To Net: NetName=GND Pin=DD2-35
+Added Pin To Net: NetName=GND Pin=DD2-36
+Added Pin To Net: NetName=NetDD2_37 Pin=DD2-37
+Added Pin To Net: NetName=NetDD2_37 Pin=SL9-1
+Added Net: Name=NetDD2_37
+Added Room: Name=TopShem
+Added Room: Name=TransistorArray
+Added Room: Name=U_Control_Panel
+Added Room: Name=U_Control_Panel_Part2
+Added Room: Name=U_Control_Panel_Power

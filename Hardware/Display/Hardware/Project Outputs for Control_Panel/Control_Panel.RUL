@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: D:\MegaSync\FreeWork\Стиралка\Экран\Hardware\Control_Panel.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_Poly|Scope=Board|Minimum=39.37
+RuleKind=Clearance|RuleName=Clearance_Poly_Sens|Scope=Board|Minimum=98.43
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance_AtmegaPad|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_SENS_2.5mm|Scope=Board|Minimum=255.91

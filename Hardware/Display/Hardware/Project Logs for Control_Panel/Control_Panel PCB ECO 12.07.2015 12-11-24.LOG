@@ -1,0 +1,170 @@
+Removed Pin From Net: NetName=NetC?_2 Pin=C?-2
+Removed Pin From Net: NetName=SCK Pin=DD?-1
+Removed Pin From Net: NetName=MOSI Pin=DD?-2
+Removed Pin From Net: NetName=MISO Pin=DD?-3
+Removed Pin From Net: NetName=RESET Pin=DD?-4
+Removed Pin From Net: NetName=GND Pin=DD?-6
+Removed Pin From Net: NetName=NetDD?_9 Pin=DD?-9
+Removed Pin From Net: NetName=NetDD?_10 Pin=DD?-10
+Removed Pin From Net: NetName=NetDD?_11 Pin=DD?-11
+Removed Pin From Net: NetName=NetDD?_12 Pin=DD?-12
+Removed Pin From Net: NetName=LED_K1 Pin=DD?-15
+Removed Pin From Net: NetName=LED_K2 Pin=DD?-16
+Removed Pin From Net: NetName=GND Pin=DD?-18
+Removed Pin From Net: NetName=NetDD?_19 Pin=DD?-19
+Removed Pin From Net: NetName=NetDD?_20 Pin=DD?-20
+Removed Pin From Net: NetName=LED_K3 Pin=DD?-21
+Removed Pin From Net: NetName=LED_K4 Pin=DD?-22
+Removed Pin From Net: NetName=LED_K5 Pin=DD?-23
+Removed Pin From Net: NetName=LED_K6 Pin=DD?-24
+Removed Pin From Net: NetName=LED_K7 Pin=DD?-25
+Removed Pin From Net: NetName=LED_K8 Pin=DD?-26
+Removed Pin From Net: NetName=NetC?_2 Pin=DD?-27
+Removed Pin From Net: NetName=GND Pin=DD?-28
+Removed Pin From Net: NetName=NetC?_1 Pin=DD?-29
+Removed Pin From Net: NetName=NetDD?_30 Pin=DD?-30
+Removed Pin From Net: NetName=LED_A1 Pin=DD?-34
+Removed Pin From Net: NetName=LED_A2 Pin=DD?-35
+Removed Pin From Net: NetName=LED_A3 Pin=DD?-36
+Removed Pin From Net: NetName=LED_A4 Pin=DD?-37
+Removed Pin From Net: NetName=GND Pin=DD?-39
+Removed Pin From Net: NetName=NetC?_2 Pin=L?-2
+Removed Pin From Net: NetName=NetDD?_30 Pin=SL1-1
+Removed Member From Class: ClassName=Control_Panel_Part2 Member=C1
+Removed Member From Class: ClassName=Control_Panel_Power Member=DD?
+Removed Member From Class: ClassName=Control_Panel_Part2 Member=HL1
+Removed Member From Class: ClassName=Control_Panel_Part2 Member=HL2
+Removed Member From Class: ClassName=Control_Panel_Part2 Member=L1
+Removed Member From Class: ClassName=Control_Panel_Part2 Member=R1
+Removed Member From Class: ClassName=Control_Panel_Part2 Member=R4
+Removed Member From Class: ClassName=Control_Panel_Part2 Member=SA1
+Removed Member From Class: ClassName=Control_Panel_Part2 Member=SL1
+Removed Member From Class: ClassName=Control_Panel_Part2 Member=VT2
+Removed Member From Class: ClassName=Control_Panel_Part2 Member=VT3
+Removed Member From Class: ClassName=Control_Panel_Part2 Member=XS2
+Change Component Designator: OldDesignator=C1 NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=DD? NewDesignator=DD2
+Change Component Designator: OldDesignator=HL1 NewDesignator=HL12
+Change Component Designator: OldDesignator=HL2 NewDesignator=HL13
+Change Component Designator: OldDesignator=L1 NewDesignator=L11
+Change Component Designator: OldDesignator=L? NewDesignator=L7
+Change Component Designator: OldDesignator=L? NewDesignator=L8
+Change Component Designator: OldDesignator=L? NewDesignator=L9
+Change Component Designator: OldDesignator=L? NewDesignator=L10
+Change Component Designator: OldDesignator=R1 NewDesignator=R12
+Change Component Designator: OldDesignator=R4 NewDesignator=R13
+Change Component Designator: OldDesignator=SA1 NewDesignator=SA2
+Change Component Designator: OldDesignator=SL1 NewDesignator=SL9
+Change Component Designator: OldDesignator=VT2 NewDesignator=VT11
+Change Component Designator: OldDesignator=VT3 NewDesignator=VT12
+Change Component Designator: OldDesignator=XS2 NewDesignator=XS1
+Change Component Designator: OldDesignator=XT? NewDesignator=XT5
+Change Component Designator: OldDesignator=XT? NewDesignator=XT6
+Change Component Designator: OldDesignator=XT? NewDesignator=XT7
+Added Pin To Net: NetName=NetC?_1 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=NetC?_1 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=NetC?_1 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=NetC?_2 Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=NetDD?_9 Pin=C14-2
+Added Pin To Net: NetName=NetDD?_10 Pin=C15-1
+Added Pin To Net: NetName=SCK Pin=DD2-1
+Added Pin To Net: NetName=MOSI Pin=DD2-2
+Added Pin To Net: NetName=MISO Pin=DD2-3
+Added Pin To Net: NetName=RESET Pin=DD2-4
+Added Pin To Net: NetName=NetC?_1 Pin=DD2-5
+Added Pin To Net: NetName=GND Pin=DD2-6
+Added Pin To Net: NetName=NetDD?_11 Pin=DD2-9
+Added Pin To Net: NetName=NetDD?_12 Pin=DD2-10
+Added Pin To Net: NetName=NetDD?_19 Pin=DD2-11
+Added Pin To Net: NetName=NetDD?_20 Pin=DD2-12
+Added Pin To Net: NetName=LED_K1 Pin=DD2-15
+Added Pin To Net: NetName=LED_K2 Pin=DD2-16
+Added Pin To Net: NetName=NetC?_1 Pin=DD2-17
+Added Pin To Net: NetName=GND Pin=DD2-18
+Added Pin To Net: NetName=NetDD?_30 Pin=DD2-19
+Added Pin To Net: NetName=LED_K3 Pin=DD2-21
+Added Pin To Net: NetName=LED_K4 Pin=DD2-22
+Added Pin To Net: NetName=LED_K5 Pin=DD2-23
+Added Pin To Net: NetName=LED_K6 Pin=DD2-24
+Added Pin To Net: NetName=LED_K7 Pin=DD2-25
+Added Pin To Net: NetName=LED_K8 Pin=DD2-26
+Added Pin To Net: NetName=NetDD?_9 Pin=DD2-27
+Added Pin To Net: NetName=GND Pin=DD2-28
+Added Pin To Net: NetName=NetC?_2 Pin=DD2-29
+Added Pin To Net: NetName=LED_A1 Pin=DD2-34
+Added Pin To Net: NetName=LED_A2 Pin=DD2-35
+Added Pin To Net: NetName=LED_A3 Pin=DD2-36
+Added Pin To Net: NetName=LED_A4 Pin=DD2-37
+Added Pin To Net: NetName=NetC?_1 Pin=DD2-38
+Added Pin To Net: NetName=GND Pin=DD2-39
+Added Pin To Net: NetName=+5V Pin=L7-1
+Added Pin To Net: NetName=NetC?_1 Pin=L7-2
+Added Pin To Net: NetName=+5V Pin=L8-1
+Added Pin To Net: NetName=NetC?_1 Pin=L8-2
+Added Pin To Net: NetName=+5V Pin=L9-1
+Added Pin To Net: NetName=NetC?_1 Pin=L9-2
+Added Pin To Net: NetName=NetDD?_9 Pin=L10-2
+Added Pin To Net: NetName=NetDD?_10 Pin=L11-2
+Added Pin To Net: NetName=NetDD?_10 Pin=XS1-2
+Added Pin To Net: NetName=NetDD?_30 Pin=XT6-1
+Added Pin To Net: NetName=NetDD?_11 Pin=XT7-1
+Added Pin To Net: NetName=NetDD?_12 Pin=XT7-2
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC10_1
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC11_1
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC12_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC13_1
+Change Net Name : Old Net Name=NetDD?_9 New Net Name=NetC14_2
+Change Net Name : Old Net Name=NetDD?_10 New Net Name=NetC15_1
+Change Net Name : Old Net Name=NetDD?_11 New Net Name=NetDD2_9
+Change Net Name : Old Net Name=NetDD?_12 New Net Name=NetDD2_10
+Change Net Name : Old Net Name=NetDD?_19 New Net Name=NetDD2_11
+Change Net Name : Old Net Name=NetDD?_20 New Net Name=NetDD2_12
+Change Net Name : Old Net Name=NetDD?_30 New Net Name=NetDD2_19
+Added Pin To Net: NetName=NetDD2_20 Pin=DD2-20
+Added Pin To Net: NetName=NetDD2_20 Pin=XT6-2
+Added Net: Name=NetDD2_20
+Added Pin To Net: NetName=NetDD2_30 Pin=DD2-30
+Added Pin To Net: NetName=NetDD2_30 Pin=SL9-1
+Added Net: Name=NetDD2_30
+Added Pin To Net: NetName=NetHL12_2 Pin=HL12-2
+Added Pin To Net: NetName=NetHL12_2 Pin=R12-2
+Added Net: Name=NetHL12_2
+Added Pin To Net: NetName=NetHL13_2 Pin=HL13-2
+Added Pin To Net: NetName=NetHL13_2 Pin=R13-2
+Added Net: Name=NetHL13_2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=VT11-3
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=VT12-3
+Added Net: Name=NetR13_1
+Added Member To Class: ClassName=Control_Panel_Power Member=Component C10 100n
+Added Member To Class: ClassName=Control_Panel_Power Member=Component C11 100n
+Added Member To Class: ClassName=Control_Panel_Power Member=Component C12 100n
+Added Member To Class: ClassName=Control_Panel_Power Member=Component C13 100n
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component C15 100n
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component HL12 Orange
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component HL13 Orange
+Added Member To Class: ClassName=Control_Panel_Power Member=Component L8 MPZ1608S181A
+Added Member To Class: ClassName=Control_Panel_Power Member=Component L9 MPZ1608S181A
+Added Member To Class: ClassName=Control_Panel_Power Member=Component L10 MPZ1608S181A
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component L11 MPZ1608S181A
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component R12 220
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component R13 220
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component SA2 DTSM20-4.3
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component SL9 Touch_sensor
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component VT11 2N7002
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component VT12 2N7002
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component XS1 IDC-06M
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component XT5 305-021-12
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component XT6 305-021-12

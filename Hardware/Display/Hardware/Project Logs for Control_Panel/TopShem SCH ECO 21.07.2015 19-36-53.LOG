@@ -1,0 +1,16 @@
+Change Pin Designator/Name:  Old Designator=DD1.1-15 Old Name=PD6 New Designator =PC3 New Name=22
+Change Pin Designator/Name:  Old Designator=DD1.1-16 Old Name=PD7 New Designator =PC4 New Name=23
+Change Pin Designator/Name:  Old Designator=DD1.1-21 Old Name=PC2 New Designator =PC6 New Name=25
+Change Pin Designator/Name:  Old Designator=DD1.1-22 Old Name=PC3 New Designator =PC7 New Name=26
+Change Pin Designator/Name:  Old Designator=DD1.1-23 Old Name=PC4 New Designator =PC2 New Name=21
+Change Pin Designator/Name:  Old Designator=DD1.1-24 Old Name=PC5 New Designator =PD6 New Name=15
+Change Pin Designator/Name:  Old Designator=DD1.1-25 Old Name=PC6 New Designator =PD7 New Name=16
+Change Pin Designator/Name:  Old Designator=DD1.1-26 Old Name=PC7 New Designator =PC5 New Name=24
+Change Pin Designator/Name:  Old Designator=DD1.1-30 Old Name=ADC7 New Designator =ADC2 New Name=35
+Change Pin Designator/Name:  Old Designator=DD1.1-31 Old Name=ADC6 New Designator =ADC3 New Name=34
+Change Pin Designator/Name:  Old Designator=DD1.1-32 Old Name=ADC5 New Designator =ADC4 New Name=33
+Change Pin Designator/Name:  Old Designator=DD1.1-33 Old Name=ADC4 New Designator =ADC5 New Name=32
+Change Pin Designator/Name:  Old Designator=DD1.1-34 Old Name=ADC3 New Designator =ADC1 New Name=36
+Change Pin Designator/Name:  Old Designator=DD1.1-35 Old Name=ADC2 New Designator =ADC0 New Name=37
+Change Pin Designator/Name:  Old Designator=DD1.1-36 Old Name=ADC1 New Designator =ADC7 New Name=30
+Change Pin Designator/Name:  Old Designator=DD1.1-37 Old Name=ADC0 New Designator =ADC6 New Name=31

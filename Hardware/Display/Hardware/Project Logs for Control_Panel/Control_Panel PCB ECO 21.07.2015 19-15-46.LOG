@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=LED_AN5 Pin=DD2-15
+Removed Pin From Net: NetName=LED_AN3 Pin=DD2-16
+Removed Pin From Net: NetName=LED_AN8 Pin=DD2-21
+Removed Pin From Net: NetName=LED_AN7 Pin=DD2-23
+Removed Pin From Net: NetName=LED_AN1 Pin=DD2-25
+Removed Pin From Net: NetName=LED_AN2 Pin=DD2-26
+Added Pin To Net: NetName=LED_AN1 Pin=DD2-15
+Added Pin To Net: NetName=LED_AN2 Pin=DD2-16
+Added Pin To Net: NetName=LED_AN3 Pin=DD2-21
+Added Pin To Net: NetName=LED_AN5 Pin=DD2-23
+Added Pin To Net: NetName=LED_AN7 Pin=DD2-25
+Added Pin To Net: NetName=LED_AN8 Pin=DD2-26
+Added Pin To Net: NetName=+5V Pin=HL10-A
+Change Net Name : Old Net Name=D1 New Net Name=DRAIN1
+Change Net Name : Old Net Name=D2 New Net Name=DRAIN2
+Change Net Name : Old Net Name=D3 New Net Name=DRAIN3
+Change Net Name : Old Net Name=D4 New Net Name=DRAIN4
+Change Net Name : Old Net Name=D5 New Net Name=DRAIN5
+Change Net Name : Old Net Name=D6 New Net Name=DRAIN6
+Change Net Name : Old Net Name=D7 New Net Name=DRAIN7
+Change Net Name : Old Net Name=D8 New Net Name=DRAIN8
+Change Net Name : Old Net Name=INT10 New Net Name=INT0
+Change Net Name : Old Net Name=INT11 New Net Name=INT1
+Change Net Name : Old Net Name=LED_A1 New Net Name=SOURCE1
+Change Net Name : Old Net Name=LED_A2 New Net Name=SOURCE2
+Change Net Name : Old Net Name=LED_A3 New Net Name=SOURCE3
+Change Net Name : Old Net Name=LED_A4 New Net Name=SOURCE4
+Change Net Name : Old Net Name=LED_A5 New Net Name=SOURCE5
+Change Net Name : Old Net Name=LED_A6 New Net Name=SOURCE6
+Change Net Name : Old Net Name=LED_A7 New Net Name=SOURCE7
+Change Net Name : Old Net Name=LED_A8 New Net Name=SOURCE8
+Change Net Name : Old Net Name=SCL1 New Net Name=SCL
+Change Net Name : Old Net Name=SDA1 New Net Name=SDA
+Added Class: Name=DRAIN[1..8]
+Added Class: Name=SOURCE[1..8]

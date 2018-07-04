@@ -1,0 +1,25 @@
+Added Component: Designator=SL1(Bolt 6mm)
+Added Component: Designator=SL2(Bolt 6mm)
+Added Component: Designator=SL3(Bolt 6mm)
+Added Component: Designator=SL4(Bolt 6mm)
+Added Component: Designator=SL5(Bolt 6mm)
+Added Component: Designator=SL6(Bolt 6mm)
+Added Component: Designator=SL7(Bolt 6mm)
+Added Component: Designator=SL8(Bolt 6mm)
+Added Pin To Net: NetName=SL1 Pin=SL1-1
+Added Pin To Net: NetName=SL2 Pin=SL2-1
+Added Pin To Net: NetName=SL3 Pin=SL3-1
+Added Pin To Net: NetName=SL4 Pin=SL4-1
+Added Pin To Net: NetName=SL5 Pin=SL5-1
+Added Pin To Net: NetName=SL6 Pin=SL6-1
+Added Pin To Net: NetName=SL7 Pin=SL7-1
+Added Pin To Net: NetName=SL8 Pin=SL8-1
+Added Member To Class: ClassName=Control_Panel Member=Component SL1 Touch_sensor
+Added Member To Class: ClassName=Control_Panel Member=Component SL2 Touch_sensor
+Added Member To Class: ClassName=Control_Panel Member=Component SL3 Touch_sensor
+Added Member To Class: ClassName=Control_Panel Member=Component SL4 Touch_sensor
+Added Member To Class: ClassName=Control_Panel Member=Component SL5 Touch_sensor
+Added Member To Class: ClassName=Control_Panel Member=Component SL6 Touch_sensor
+Added Member To Class: ClassName=Control_Panel Member=Component SL7 Touch_sensor
+Added Member To Class: ClassName=Control_Panel Member=Component SL8 Touch_sensor
+Added Room: Name=Control_Panel

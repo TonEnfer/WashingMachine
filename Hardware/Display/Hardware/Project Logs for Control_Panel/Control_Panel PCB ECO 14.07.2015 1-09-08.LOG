@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=NetR35_1 Pin=VT11-1
+Removed Pin From Net: NetName=NetR34_1 Pin=VT12-1
+Change Component Designator: OldDesignator=HL12 NewDesignator=HL14
+Change Component Designator: OldDesignator=HL13 NewDesignator=HL15
+Change Component Designator: OldDesignator=R11 NewDesignator=R37
+Change Component Designator: OldDesignator=R12 NewDesignator=R36
+Change Component Designator: OldDesignator=VT11 NewDesignator=VT26
+Change Component Designator: OldDesignator=VT12 NewDesignator=VT25
+Added Pin To Net: NetName=GND Pin=HL13-2
+Added Pin To Net: NetName=+5V Pin=HL14-1
+Added Pin To Net: NetName=+5V Pin=HL15-1
+Added Pin To Net: NetName=NetHL11_2 Pin=R11-2
+Added Pin To Net: NetName=NetDD2_1 Pin=VT11-1
+Added Pin To Net: NetName=NetDD2_2 Pin=VT12-1
+Added Pin To Net: NetName=NetR34_1 Pin=VT25-1
+Added Pin To Net: NetName=GND Pin=VT25-2
+Added Pin To Net: NetName=NetR35_1 Pin=VT26-1
+Added Pin To Net: NetName=GND Pin=VT26-2
+Added Pin To Net: NetName=NetHL14_2 Pin=HL14-2
+Added Pin To Net: NetName=NetHL14_2 Pin=R36-2
+Added Net: Name=NetHL14_2
+Added Pin To Net: NetName=NetHL15_2 Pin=HL15-2
+Added Pin To Net: NetName=NetHL15_2 Pin=R37-2
+Added Net: Name=NetHL15_2
+Added Pin To Net: NetName=NetR36_1 Pin=R36-1
+Added Pin To Net: NetName=NetR36_1 Pin=VT25-3
+Added Net: Name=NetR36_1
+Added Pin To Net: NetName=NetR37_1 Pin=R37-1
+Added Pin To Net: NetName=NetR37_1 Pin=VT26-3
+Added Net: Name=NetR37_1
+Added Room: Name=TopShem
+Added Room: Name=TransistorArray
+Added Room: Name=U_Control_Panel
+Added Room: Name=U_Control_Panel_Part2
+Added Room: Name=U_Control_Panel_Power

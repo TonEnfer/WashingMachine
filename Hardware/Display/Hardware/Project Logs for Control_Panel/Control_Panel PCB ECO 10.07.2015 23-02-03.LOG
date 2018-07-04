@@ -1,0 +1,20 @@
+Added Component: Designator=DD1(44ML_M)
+Added Pin To Net: NetName=NetC4_1 Pin=DD1-5
+Added Pin To Net: NetName=GND Pin=DD1-6
+Added Pin To Net: NetName=NetC5_1 Pin=DD1-17
+Added Pin To Net: NetName=GND Pin=DD1-18
+Added Pin To Net: NetName=NetC8_2 Pin=DD1-27
+Added Pin To Net: NetName=GND Pin=DD1-28
+Added Pin To Net: NetName=NetC7_1 Pin=DD1-29
+Added Pin To Net: NetName=SL1 Pin=DD1-30
+Added Pin To Net: NetName=SL2 Pin=DD1-31
+Added Pin To Net: NetName=SL3 Pin=DD1-32
+Added Pin To Net: NetName=SL4 Pin=DD1-33
+Added Pin To Net: NetName=SL5 Pin=DD1-34
+Added Pin To Net: NetName=SL6 Pin=DD1-35
+Added Pin To Net: NetName=SL7 Pin=DD1-36
+Added Pin To Net: NetName=SL8 Pin=DD1-37
+Added Pin To Net: NetName=NetC6_1 Pin=DD1-38
+Added Pin To Net: NetName=GND Pin=DD1-39
+Added Member To Class: ClassName=Control_Panel Member=Component DD1 Atmega324P-20AU
+Added Room: Name=Control_Panel

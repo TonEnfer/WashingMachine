@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=MOSI Pin=DD2-1
+Removed Pin From Net: NetName=MISO Pin=DD2-2
+Removed Pin From Net: NetName=SCK Pin=DD2-3
+Removed Pin From Net: NetName=RESET Pin=DD2-4
+Removed Pin From Net: NetName=NetHL13_2 Pin=R13-2
+Removed Pin From Net: NetName=RESET Pin=SA2-1
+Removed Pin From Net: NetName=RESET Pin=SA2-1
+Removed Pin From Net: NetName=MOSI Pin=VT11-1
+Removed Pin From Net: NetName=MISO Pin=VT12-1
+Removed Pin From Net: NetName=MISO Pin=XS1-1
+Removed Pin From Net: NetName=SCK Pin=XS1-3
+Removed Pin From Net: NetName=MOSI Pin=XS1-4
+Removed Pin From Net: NetName=RESET Pin=XS1-5
+Added Pin To Net: NetName=NetHL12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=LED_K1 Pin=R13-2
+Added Pin To Net: NetName=NetHL13_2 Pin=R13-2
+Added Pin To Net: NetName=NetDD2_1 Pin=DD2-1
+Added Pin To Net: NetName=NetDD2_1 Pin=VT11-1
+Added Pin To Net: NetName=NetDD2_1 Pin=XS1-4
+Added Net: Name=NetDD2_1
+Added Pin To Net: NetName=NetDD2_2 Pin=DD2-2
+Added Pin To Net: NetName=NetDD2_2 Pin=VT12-1
+Added Pin To Net: NetName=NetDD2_2 Pin=XS1-1
+Added Net: Name=NetDD2_2
+Added Pin To Net: NetName=NetDD2_3 Pin=DD2-3
+Added Pin To Net: NetName=NetDD2_3 Pin=XS1-3
+Added Net: Name=NetDD2_3
+Added Pin To Net: NetName=NetDD2_4 Pin=DD2-4
+Added Pin To Net: NetName=NetDD2_4 Pin=SA2-1
+Added Pin To Net: NetName=NetDD2_4 Pin=SA2-1
+Added Pin To Net: NetName=NetDD2_4 Pin=XS1-5
+Added Net: Name=NetDD2_4
+Added Room: Name=Control_Panel
+Added Room: Name=Control_Panel_Part2
+Added Room: Name=Control_Panel_Power

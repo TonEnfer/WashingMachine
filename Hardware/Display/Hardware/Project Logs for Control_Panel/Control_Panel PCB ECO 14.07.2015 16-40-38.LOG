@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=LED6 Pin=DD1-15
+Removed Pin From Net: NetName=LED5 Pin=DD1-16
+Removed Pin From Net: NetName=LED7 Pin=DD1-21
+Removed Pin From Net: NetName=LED1 Pin=DD1-22
+Removed Pin From Net: NetName=LED2 Pin=DD1-23
+Removed Pin From Net: NetName=LED8 Pin=DD1-24
+Removed Pin From Net: NetName=LED3 Pin=DD1-25
+Removed Pin From Net: NetName=LED4 Pin=DD1-26
+Removed Pin From Net: NetName=SENS8 Pin=DD1-30
+Removed Pin From Net: NetName=SENS4 Pin=DD1-31
+Removed Pin From Net: NetName=SENS2 Pin=DD1-33
+Removed Pin From Net: NetName=SENS1 Pin=DD1-34
+Removed Pin From Net: NetName=SENS5 Pin=DD1-37
+Removed Pin From Net: NetName=STOP_BUTTON Pin=XS3-7
+Added Component: Designator=XS6(PLS-02R1)
+Added Pin To Net: NetName=LED1 Pin=DD1-15
+Added Pin To Net: NetName=LED2 Pin=DD1-16
+Added Pin To Net: NetName=LED3 Pin=DD1-21
+Added Pin To Net: NetName=LED4 Pin=DD1-22
+Added Pin To Net: NetName=LED5 Pin=DD1-23
+Added Pin To Net: NetName=LED6 Pin=DD1-24
+Added Pin To Net: NetName=LED7 Pin=DD1-25
+Added Pin To Net: NetName=LED8 Pin=DD1-26
+Added Pin To Net: NetName=SENS1 Pin=DD1-30
+Added Pin To Net: NetName=SENS2 Pin=DD1-31
+Added Pin To Net: NetName=SENS4 Pin=DD1-33
+Added Pin To Net: NetName=SENS5 Pin=DD1-34
+Added Pin To Net: NetName=SENS8 Pin=DD1-37
+Added Pin To Net: NetName=GND Pin=XS6-2
+Added Pin To Net: NetName=NetXS3_7 Pin=XS3-7
+Added Pin To Net: NetName=NetXS3_7 Pin=XS6-1
+Added Net: Name=NetXS3_7
+Added Member To Class: ClassName=TopShem Member=Component XS6 PLS-02R

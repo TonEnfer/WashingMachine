@@ -1,0 +1,4 @@
+Added Component: Designator=XT4(305-021-12)
+Added Pin To Net: NetName=NetVD3_A Pin=XT4-1
+Added Pin To Net: NetName=NetVD4_A Pin=XT4-2
+Added Member To Class: ClassName=Sheet2 Member=Component XT4 305-021-12

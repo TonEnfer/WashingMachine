@@ -1,0 +1,34 @@
+Replace Part C1 10000_016 in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with 10000_016 from Cap.SchLib
+Replace Part C2 02200_050 in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with 02200_050 from Cap.SchLib
+Replace Part C3 470000_050 in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with 470000_050 from Cap.SchLib
+Replace Part C4 Capacitor in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with Capacitor from library.DbLib
+Replace Part C5 Capacitor in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with Capacitor from library.DbLib
+Replace Part C6 Capacitor in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with Capacitor from library.DbLib
+Replace Part C7 Capacitor in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with Capacitor from library.DbLib
+Replace Part C8 Capacitor in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with Capacitor from library.DbLib
+Replace Part DA1 LM2574M-5.0 in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with LM2574M-5.0 from Power.SchLib
+Replace Part DD1 Atmega324P-20AU in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with Atmega324P-20AU from Microcontrollers.SchLib
+Replace Part DD1 Atmega324P-20AU in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with Atmega324P-20AU from Microcontrollers.SchLib
+Replace Part FU1 EFuse LP60-110F in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with EFuse LP60-110F from Power.SchLib
+Replace Part HL1 LED1_G in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with LED1_G from Indicator.SchLib
+Replace Part L1 SCD0705T-331K-N in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with SCD0705T-331K-N from Inductor.SchLib
+Replace Part L2 Ferrite Bead in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with Ferrite Bead from Inductor.SchLib
+Replace Part L3 Ferrite Bead in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with Ferrite Bead from Inductor.SchLib
+Replace Part L4 Ferrite Bead in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with Ferrite Bead from Inductor.SchLib
+Replace Part L5 Ferrite Bead in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with Ferrite Bead from Inductor.SchLib
+Replace Part R1 Resistor in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with Resistor from library.DbLib
+Replace Part SL1 Touch_sensor in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with Touch_sensor from Sensor.SchLib
+Replace Part SL2 Touch_sensor in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with Touch_sensor from Sensor.SchLib
+Replace Part SL3 Touch_sensor in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with Touch_sensor from Sensor.SchLib
+Replace Part SL4 Touch_sensor in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with Touch_sensor from Sensor.SchLib
+Replace Part SL5 Touch_sensor in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with Touch_sensor from Sensor.SchLib
+Replace Part SL6 Touch_sensor in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with Touch_sensor from Sensor.SchLib
+Replace Part SL7 Touch_sensor in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with Touch_sensor from Sensor.SchLib
+Replace Part SL8 Touch_sensor in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with Touch_sensor from Sensor.SchLib
+Replace Part VD1 SM15T12CA in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with SM15T12CA from Diod.SchLib
+Replace Part VD2 10BQ060TRPBF in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with 10BQ060TRPBF from Diod.SchLib
+Replace Part VD3 1N4001 in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with 1N4001 from Diod.SchLib
+Replace Part VD4 1N4001 in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with 1N4001 from Diod.SchLib
+Replace Part VD5 1N4001 in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with 1N4001 from Diod.SchLib
+Replace Part VD6 1N4001 in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with 1N4001 from Diod.SchLib
+Replace Part XS1 330-031-12 in C:\Users\tonik_000\OneDrive\Работа\Стиралка\Экран\Hardware\Control_Panel.SchDoc with 330-031-12 from Connector.SchLib

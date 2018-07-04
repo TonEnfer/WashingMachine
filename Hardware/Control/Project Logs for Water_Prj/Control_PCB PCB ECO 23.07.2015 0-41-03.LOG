@@ -1,0 +1,1054 @@
+Added Component: Designator=BQ1(HC-49/S)
+Added Component: Designator=BQ2(HC-49/S)
+Added Component: Designator=BQ3(HC-49/S)
+Added Component: Designator=BQ4(HC-49/S)
+Added Component: Designator=BQ5(HC-49/S)
+Added Component: Designator=BQ6(HC-49/S)
+Added Component: Designator=C1(CAPC3216X05M)
+Added Component: Designator=C2(CAPC3216X05M)
+Added Component: Designator=C3(CAPC3216X05M)
+Added Component: Designator=C4(CAPC3216X05M)
+Added Component: Designator=C5(CAP_POLAR_ELLYTE_G)
+Added Component: Designator=C6(SMDRC0805)
+Added Component: Designator=C7(SMDRC0805)
+Added Component: Designator=C8(SMDRC0805)
+Added Component: Designator=C9(CAP_POLAR_ELLYTE_G)
+Added Component: Designator=C10(SMDRC0805)
+Added Component: Designator=C11(SMDRC0805)
+Added Component: Designator=C12(SMDRC0805)
+Added Component: Designator=C13(SMDRC0805)
+Added Component: Designator=C14(SMDRC0805)
+Added Component: Designator=C15(SMDRC0805)
+Added Component: Designator=C16(SMDRC0805)
+Added Component: Designator=C17(SMDRC0805)
+Added Component: Designator=C18(SMDRC0805)
+Added Component: Designator=C19(SMDRC0805)
+Added Component: Designator=C20(SMDRC0805)
+Added Component: Designator=C21(SMDRC0805)
+Added Component: Designator=C22_U_Programming_Interface1(SMDRC0805)
+Added Component: Designator=C22_U_Programming_Interface2(SMDRC0805)
+Added Component: Designator=C22_U_Programming_Interface3(SMDRC0805)
+Added Component: Designator=C23(CAPC3216X05M)
+Added Component: Designator=C24(CAPC3216X05M)
+Added Component: Designator=C25(CAPC3216X05M)
+Added Component: Designator=C26(CAPC3216X05M)
+Added Component: Designator=C27(CAP_POLAR_ELLYTE_B)
+Added Component: Designator=C28(CAP_POLAR_ELLYTE_B)
+Added Component: Designator=C29(CAP_POLAR_ELLYTE_B)
+Added Component: Designator=C30(CAPC3216X05M)
+Added Component: Designator=C31(CAPC3216X05M)
+Added Component: Designator=C32(CAP_POLAR_ELLYTE_B)
+Added Component: Designator=C33(CAPC3216X05M)
+Added Component: Designator=C34(CAPC3216X05M)
+Added Component: Designator=DD1(44ML_M)
+Added Component: Designator=DD2(44ML_M)
+Added Component: Designator=DD3(44ML_M)
+Added Component: Designator=HL1_U_DCMotorDriver1(DIOMELF2012M)
+Added Component: Designator=HL1_U_DCMotorDriver2(DIOMELF2012M)
+Added Component: Designator=HL2_U_DCMotorDriver1(DIOMELF2012M)
+Added Component: Designator=HL2_U_DCMotorDriver2(DIOMELF2012M)
+Added Component: Designator=HL3(DIOMELF2012M)
+Added Component: Designator=HL4(DIOMELF2012M)
+Added Component: Designator=HL5(DIOMELF2012M)
+Added Component: Designator=HL6(DIOMELF2012M)
+Added Component: Designator=HL7(DIOMELF2012M)
+Added Component: Designator=HL8(DIOMELF2012M)
+Added Component: Designator=HL9(DIOMELF2012M)
+Added Component: Designator=HL10_U_Programming_Interface1(DIOMELF2012M)
+Added Component: Designator=HL10_U_Programming_Interface2(DIOMELF2012M)
+Added Component: Designator=HL10_U_Programming_Interface3(DIOMELF2012M)
+Added Component: Designator=HL11_U_Programming_Interface1(DIOMELF2012M)
+Added Component: Designator=HL11_U_Programming_Interface2(DIOMELF2012M)
+Added Component: Designator=HL11_U_Programming_Interface3(DIOMELF2012M)
+Added Component: Designator=HL12(DIOMELF2012M)
+Added Component: Designator=HL13(DIOMELF2012M)
+Added Component: Designator=K1_U_DCMotorDriver1(TRU-5VDC-SB-CL)
+Added Component: Designator=K1_U_DCMotorDriver2(TRU-5VDC-SB-CL)
+Added Component: Designator=K2_U_DCMotorDriver1(TRU-5VDC-SB-CL)
+Added Component: Designator=K2_U_DCMotorDriver2(TRU-5VDC-SB-CL)
+Added Component: Designator=K3(TRU-5VDC-SB-CL)
+Added Component: Designator=K4(TRU-5VDC-SB-CL)
+Added Component: Designator=K5(TRU-5VDC-SB-CL)
+Added Component: Designator=K6(TRU-5VDC-SB-CL)
+Added Component: Designator=K7(TRU-5VDC-SB-CL)
+Added Component: Designator=K8(TRU-5VDC-SB-CL)
+Added Component: Designator=K9(TRU-5VDC-SB-CL)
+Added Component: Designator=K10(TRU-5VDC-SB-CL)
+Added Component: Designator=K11(TRU-5VDC-SB-CL)
+Added Component: Designator=L1(INDC0603X03M)
+Added Component: Designator=L2(INDC0603X03M)
+Added Component: Designator=L3(INDC0603X03M)
+Added Component: Designator=L4(INDC0603X03M)
+Added Component: Designator=L5(INDC0603X03M)
+Added Component: Designator=L6(INDC0603X03M)
+Added Component: Designator=L7(INDC0603X03M)
+Added Component: Designator=L8(INDC0603X03M)
+Added Component: Designator=L9(INDC0603X03M)
+Added Component: Designator=L10(INDC0603X03M)
+Added Component: Designator=L11(INDC0603X03M)
+Added Component: Designator=L12(INDC0603X03M)
+Added Component: Designator=L13_U_Programming_Interface1(INDC0603X03M)
+Added Component: Designator=L13_U_Programming_Interface2(INDC0603X03M)
+Added Component: Designator=L13_U_Programming_Interface3(INDC0603X03M)
+Added Component: Designator=R1(SMDRC0805)
+Added Component: Designator=R2_U_DCMotorDriver1(SMDRC0805)
+Added Component: Designator=R2_U_DCMotorDriver2(SMDRC0805)
+Added Component: Designator=R3_U_DCMotorDriver1(SMDRC0805)
+Added Component: Designator=R3_U_DCMotorDriver2(SMDRC0805)
+Added Component: Designator=R4_U_DCMotorDriver1(SMDRC0805)
+Added Component: Designator=R4_U_DCMotorDriver2(SMDRC0805)
+Added Component: Designator=R5_U_DCMotorDriver1(SMDRC0805)
+Added Component: Designator=R5_U_DCMotorDriver2(SMDRC0805)
+Added Component: Designator=R6_U_DCMotorDriver1(SMDRC0805)
+Added Component: Designator=R6_U_DCMotorDriver2(SMDRC0805)
+Added Component: Designator=R7_U_DCMotorDriver1(SMDRC0805)
+Added Component: Designator=R7_U_DCMotorDriver2(SMDRC0805)
+Added Component: Designator=R8(SMDRC0805)
+Added Component: Designator=R9(SMDRC0805)
+Added Component: Designator=R10(SMDRC0805)
+Added Component: Designator=R11(SMDRC0805)
+Added Component: Designator=R12(SMDRC0805)
+Added Component: Designator=R13(SMDRC0805)
+Added Component: Designator=R14(SMDRC0805)
+Added Component: Designator=R15(SMDRC0805)
+Added Component: Designator=R16(SMDRC0805)
+Added Component: Designator=R17(SMDRC0805)
+Added Component: Designator=R18(SMDRC0805)
+Added Component: Designator=R19(SMDRC0805)
+Added Component: Designator=R20(SMDRC0805)
+Added Component: Designator=R21(SMDRC0805)
+Added Component: Designator=R22(SMDRC0805)
+Added Component: Designator=R23(SMDRC0805)
+Added Component: Designator=R24(SMDRC0805)
+Added Component: Designator=R25(SMDRC0805)
+Added Component: Designator=R26(SMDRC0805)
+Added Component: Designator=R27(SMDRC0805)
+Added Component: Designator=R28(SMDRC0805)
+Added Component: Designator=R29_U_Programming_Interface1(SMDRC0805)
+Added Component: Designator=R29_U_Programming_Interface2(SMDRC0805)
+Added Component: Designator=R29_U_Programming_Interface3(SMDRC0805)
+Added Component: Designator=R30_U_Programming_Interface1(SMDRC0805)
+Added Component: Designator=R30_U_Programming_Interface2(SMDRC0805)
+Added Component: Designator=R30_U_Programming_Interface3(SMDRC0805)
+Added Component: Designator=R31_U_Programming_Interface1(SMDRC0805)
+Added Component: Designator=R31_U_Programming_Interface2(SMDRC0805)
+Added Component: Designator=R31_U_Programming_Interface3(SMDRC0805)
+Added Component: Designator=R32_U_Programming_Interface1(SMDRC0805)
+Added Component: Designator=R32_U_Programming_Interface2(SMDRC0805)
+Added Component: Designator=R32_U_Programming_Interface3(SMDRC0805)
+Added Component: Designator=R33(SMDRC0805)
+Added Component: Designator=R34(SMDRC0805)
+Added Component: Designator=R35(SMDRC0805)
+Added Component: Designator=R36(SMDRC0805)
+Added Component: Designator=R37(SMDRC0805)
+Added Component: Designator=R38(SMDRC0805)
+Added Component: Designator=R39(SMDRC0805)
+Added Component: Designator=R40(SMDRC0805)
+Added Component: Designator=SA1_U_Programming_Interface1(DTSM20)
+Added Component: Designator=SA1_U_Programming_Interface2(DTSM20)
+Added Component: Designator=SA1_U_Programming_Interface3(DTSM20)
+Added Component: Designator=VD1_U_DCMotorDriver1(PinDiode)
+Added Component: Designator=VD1_U_DCMotorDriver2(PinDiode)
+Added Component: Designator=VD2_U_DCMotorDriver1(PinDiode)
+Added Component: Designator=VD2_U_DCMotorDriver2(PinDiode)
+Added Component: Designator=VD3(PinDiode)
+Added Component: Designator=VD4(PinDiode)
+Added Component: Designator=VD5(PinDiode)
+Added Component: Designator=VD6(PinDiode)
+Added Component: Designator=VD7(PinDiode)
+Added Component: Designator=VD8(PinDiode)
+Added Component: Designator=VD9(PinDiode)
+Added Component: Designator=VD10(PinDiode)
+Added Component: Designator=VD11(PinDiode)
+Added Component: Designator=VT1_U_DCMotorDriver1(SOT23 (TO-236AB))
+Added Component: Designator=VT1_U_DCMotorDriver2(SOT23 (TO-236AB))
+Added Component: Designator=VT2_U_DCMotorDriver1(SOT23 (TO-236AB))
+Added Component: Designator=VT2_U_DCMotorDriver2(SOT23 (TO-236AB))
+Added Component: Designator=VT3(SOT23 (TO-236AB))
+Added Component: Designator=VT4(SOT23 (TO-236AB))
+Added Component: Designator=VT5(SOT23 (TO-236AB))
+Added Component: Designator=VT6(SOT23 (TO-236AB))
+Added Component: Designator=VT7(SOT23 (TO-236AB))
+Added Component: Designator=VT8(SOT23 (TO-236AB))
+Added Component: Designator=VT9(SOT23 (TO-236AB))
+Added Component: Designator=VT10_U_Programming_Interface1(SOT23 (TO-236AB))
+Added Component: Designator=VT10_U_Programming_Interface2(SOT23 (TO-236AB))
+Added Component: Designator=VT10_U_Programming_Interface3(SOT23 (TO-236AB))
+Added Component: Designator=VT11_U_Programming_Interface1(SOT23 (TO-236AB))
+Added Component: Designator=VT11_U_Programming_Interface2(SOT23 (TO-236AB))
+Added Component: Designator=VT11_U_Programming_Interface3(SOT23 (TO-236AB))
+Added Component: Designator=VT12(SOT23 (TO-236AB))
+Added Component: Designator=VT13(SOT23 (TO-236AB))
+Added Component: Designator=XS1(PLS-02R1)
+Added Component: Designator=XS2(PLS-02R1)
+Added Component: Designator=XS3_U_Programming_Interface1(IDC-06M)
+Added Component: Designator=XS3_U_Programming_Interface2(IDC-06M)
+Added Component: Designator=XS3_U_Programming_Interface3(IDC-06M)
+Added Component: Designator=XS4(PLS-02R1)
+Added Component: Designator=XS5(PLS-08R1)
+Added Component: Designator=XT1(330-021-12)
+Added Component: Designator=XT2(330-021-12)
+Added Component: Designator=XT3(330-021-12)
+Added Component: Designator=XT4(330-031-12)
+Added Component: Designator=XT5(330-031-12)
+Added Component: Designator=XT6_U_DCMotorDriver1(330-021-12)
+Added Component: Designator=XT6_U_DCMotorDriver2(330-021-12)
+Added Component: Designator=XT7(330-021-12)
+Added Component: Designator=XT8(330-021-12)
+Added Component: Designator=XT9(330-021-12)
+Added Component: Designator=XT10(330-021-12)
+Added Component: Designator=XT11(330-021-12)
+Added Component: Designator=XT12(330-021-12)
+Added Component: Designator=XT13(330-021-12)
+Added Component: Designator=XT14(330-031-12)
+Added Component: Designator=XT15(330-031-12)
+Added Component: Designator=XT16(330-031-12)
+Added Component: Designator=XT17(330-031-12)
+Added Component: Designator=XT18(330-031-12)
+Added Component: Designator=XT19(330-021-12)
+Added Component: Designator=XT20(330-021-12)
+Added Component: Designator=XT21(330-031-12)
+Added Component: Designator=XT22(330-031-12)
+Added Component: Designator=XT23(330-031-12)
+Added Component: Designator=XT24(330-031-12)
+Added Pin To Net: NetName=NetBQ1_1 Pin=BQ1-1
+Added Pin To Net: NetName=NetBQ1_2 Pin=BQ1-2
+Added Pin To Net: NetName=NetBQ2_1 Pin=BQ2-1
+Added Pin To Net: NetName=NetBQ2_2 Pin=BQ2-2
+Added Pin To Net: NetName=NetBQ3_1 Pin=BQ3-1
+Added Pin To Net: NetName=NetBQ3_2 Pin=BQ3-2
+Added Pin To Net: NetName=NetBQ4_1 Pin=BQ4-1
+Added Pin To Net: NetName=NetBQ4_2 Pin=BQ4-2
+Added Pin To Net: NetName=NetBQ5_1 Pin=BQ5-1
+Added Pin To Net: NetName=NetBQ5_2 Pin=BQ5-2
+Added Pin To Net: NetName=NetBQ6_1 Pin=BQ6-1
+Added Pin To Net: NetName=NetBQ6_2 Pin=BQ6-2
+Added Pin To Net: NetName=NetBQ1_2 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetBQ1_1 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetBQ2_2 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=NetBQ2_1 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+5V Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=NetC2_2 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=NetC3_2 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=+12V Pin=C9-2
+Added Pin To Net: NetName=AGND Pin=C10-1
+Added Pin To Net: NetName=NetC4_2 Pin=C10-2
+Added Pin To Net: NetName=AGND Pin=C11-1
+Added Pin To Net: NetName=NetC5_2 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=NetC22_2 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=AGND Pin=C15-1
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=AGND Pin=C16-1
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=NetC23_2 Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=NetC24_2 Pin=C19-2
+Added Pin To Net: NetName=AGND Pin=C20-1
+Added Pin To Net: NetName=NetC25_2 Pin=C20-2
+Added Pin To Net: NetName=AGND Pin=C21-1
+Added Pin To Net: NetName=NetC26_2 Pin=C21-2
+Added Pin To Net: NetName=NetC1_U_Programming_Interface3_1 Pin=C22_U_Programming_Interface1-1
+Added Pin To Net: NetName=GND Pin=C22_U_Programming_Interface1-2
+Added Pin To Net: NetName=NetC1_U_Programming_Interface2_1 Pin=C22_U_Programming_Interface2-1
+Added Pin To Net: NetName=GND Pin=C22_U_Programming_Interface2-2
+Added Pin To Net: NetName=NetC1_U_Programming_Interface1_1 Pin=C22_U_Programming_Interface3-1
+Added Pin To Net: NetName=GND Pin=C22_U_Programming_Interface3-2
+Added Pin To Net: NetName=NetBQ3_2 Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=NetBQ3_1 Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=NetBQ4_2 Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=NetBQ4_1 Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=AGND Pin=C27-1
+Added Pin To Net: NetName=+5V Pin=C27-2
+Added Pin To Net: NetName=AGND Pin=C28-1
+Added Pin To Net: NetName=+5V Pin=C28-2
+Added Pin To Net: NetName=AGND Pin=C29-1
+Added Pin To Net: NetName=+5V Pin=C29-2
+Added Pin To Net: NetName=NetBQ5_2 Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C30-2
+Added Pin To Net: NetName=NetBQ5_1 Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=AGND Pin=C32-1
+Added Pin To Net: NetName=+5V Pin=C32-2
+Added Pin To Net: NetName=NetBQ6_2 Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=NetBQ6_1 Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=MOSI_U_Programming_Interface3 Pin=DD1-1
+Added Pin To Net: NetName=MISO_U_Programming_Interface3 Pin=DD1-2
+Added Pin To Net: NetName=SCK_U_Programming_Interface3 Pin=DD1-3
+Added Pin To Net: NetName=RESET_U_Programming_Interface3 Pin=DD1-4
+Added Pin To Net: NetName=NetC6_2 Pin=DD1-5
+Added Pin To Net: NetName=GND Pin=DD1-6
+Added Pin To Net: NetName=NetBQ1_2 Pin=DD1-7
+Added Pin To Net: NetName=NetBQ1_1 Pin=DD1-8
+Added Pin To Net: NetName=DCMOTOR_FORWARD_U_DCMotorDriver2 Pin=DD1-9
+Added Pin To Net: NetName=DCMOTOR_REVERSE_U_DCMotorDriver2 Pin=DD1-10
+Added Pin To Net: NetName=LIMIT_SWITCH1 Pin=DD1-11
+Added Pin To Net: NetName=LIMIT_SWITCH2 Pin=DD1-12
+Added Pin To Net: NetName=VALVE1 Pin=DD1-13
+Added Pin To Net: NetName=VALVE2 Pin=DD1-14
+Added Pin To Net: NetName=VALVE3 Pin=DD1-15
+Added Pin To Net: NetName=VALVE4 Pin=DD1-16
+Added Pin To Net: NetName=NetC2_2 Pin=DD1-17
+Added Pin To Net: NetName=GND Pin=DD1-18
+Added Pin To Net: NetName=NetDD1_19 Pin=DD1-19
+Added Pin To Net: NetName=NetDD1_20 Pin=DD1-20
+Added Pin To Net: NetName=NetBQ2_2 Pin=DD1-25
+Added Pin To Net: NetName=NetBQ2_1 Pin=DD1-26
+Added Pin To Net: NetName=NetC4_2 Pin=DD1-27
+Added Pin To Net: NetName=AGND Pin=DD1-28
+Added Pin To Net: NetName=NetC5_2 Pin=DD1-29
+Added Pin To Net: NetName=PRESSURE_N Pin=DD1-35
+Added Pin To Net: NetName=PRESSURE_P Pin=DD1-36
+Added Pin To Net: NetName=THERM_SENS Pin=DD1-37
+Added Pin To Net: NetName=NetC3_2 Pin=DD1-38
+Added Pin To Net: NetName=GND Pin=DD1-39
+Added Pin To Net: NetName=HEATER3 Pin=DD1-42
+Added Pin To Net: NetName=HEATER2 Pin=DD1-43
+Added Pin To Net: NetName=HEATER1 Pin=DD1-44
+Added Pin To Net: NetName=MOSI_U_Programming_Interface2 Pin=DD2-1
+Added Pin To Net: NetName=MISO_U_Programming_Interface2 Pin=DD2-2
+Added Pin To Net: NetName=SCK_U_Programming_Interface2 Pin=DD2-3
+Added Pin To Net: NetName=RESET_U_Programming_Interface2 Pin=DD2-4
+Added Pin To Net: NetName=NetC22_2 Pin=DD2-5
+Added Pin To Net: NetName=GND Pin=DD2-6
+Added Pin To Net: NetName=NetBQ3_2 Pin=DD2-7
+Added Pin To Net: NetName=NetBQ3_1 Pin=DD2-8
+Added Pin To Net: NetName=LIMIT_SWITCH3 Pin=DD2-12
+Added Pin To Net: NetName=LIMIT_SWITCH4 Pin=DD2-13
+Added Pin To Net: NetName=LIMIT_SWITCH5 Pin=DD2-14
+Added Pin To Net: NetName=LIMIT_SWITCH6 Pin=DD2-15
+Added Pin To Net: NetName=LIMIT_SWITCH7 Pin=DD2-16
+Added Pin To Net: NetName=NetC13_2 Pin=DD2-17
+Added Pin To Net: NetName=GND Pin=DD2-18
+Added Pin To Net: NetName=NetDD1_19 Pin=DD2-19
+Added Pin To Net: NetName=NetDD1_20 Pin=DD2-20
+Added Pin To Net: NetName=NetBQ4_2 Pin=DD2-25
+Added Pin To Net: NetName=NetBQ4_1 Pin=DD2-26
+Added Pin To Net: NetName=NetC15_2 Pin=DD2-27
+Added Pin To Net: NetName=AGND Pin=DD2-28
+Added Pin To Net: NetName=NetC16_2 Pin=DD2-29
+Added Pin To Net: NetName=NetC14_2 Pin=DD2-38
+Added Pin To Net: NetName=GND Pin=DD2-39
+Added Pin To Net: NetName=ACMOTOR_REVERSE Pin=DD2-41
+Added Pin To Net: NetName=ACMOTOR_FORWARD Pin=DD2-42
+Added Pin To Net: NetName=DCMOTOR_REVERSE_U_DCMotorDriver1 Pin=DD2-43
+Added Pin To Net: NetName=DCMOTOR_FORWARD_U_DCMotorDriver1 Pin=DD2-44
+Added Pin To Net: NetName=MOSI_U_Programming_Interface1 Pin=DD3-1
+Added Pin To Net: NetName=MISO_U_Programming_Interface1 Pin=DD3-2
+Added Pin To Net: NetName=SCK_U_Programming_Interface1 Pin=DD3-3
+Added Pin To Net: NetName=RESET_U_Programming_Interface1 Pin=DD3-4
+Added Pin To Net: NetName=NetC17_2 Pin=DD3-5
+Added Pin To Net: NetName=GND Pin=DD3-6
+Added Pin To Net: NetName=NetBQ5_2 Pin=DD3-7
+Added Pin To Net: NetName=NetBQ5_1 Pin=DD3-8
+Added Pin To Net: NetName=NetDD3_12 Pin=DD3-12
+Added Pin To Net: NetName=NetDD3_13 Pin=DD3-13
+Added Pin To Net: NetName=NetDD3_14 Pin=DD3-14
+Added Pin To Net: NetName=NetC23_2 Pin=DD3-17
+Added Pin To Net: NetName=GND Pin=DD3-18
+Added Pin To Net: NetName=NetDD1_19 Pin=DD3-19
+Added Pin To Net: NetName=NetDD1_20 Pin=DD3-20
+Added Pin To Net: NetName=NetBQ6_2 Pin=DD3-25
+Added Pin To Net: NetName=NetBQ6_1 Pin=DD3-26
+Added Pin To Net: NetName=NetC25_2 Pin=DD3-27
+Added Pin To Net: NetName=AGND Pin=DD3-28
+Added Pin To Net: NetName=NetC26_2 Pin=DD3-29
+Added Pin To Net: NetName=CURRENT_SENS4 Pin=DD3-34
+Added Pin To Net: NetName=CURRENT_SENS3 Pin=DD3-35
+Added Pin To Net: NetName=CURRENT_SENS2 Pin=DD3-36
+Added Pin To Net: NetName=CURRENT_SENS1 Pin=DD3-37
+Added Pin To Net: NetName=NetC24_2 Pin=DD3-38
+Added Pin To Net: NetName=GND Pin=DD3-39
+Added Pin To Net: NetName=+5V Pin=HL1_U_DCMotorDriver1-1
+Added Pin To Net: NetName=NetHL1_U_DCMotorDriver1_2 Pin=HL1_U_DCMotorDriver1-2
+Added Pin To Net: NetName=+5V Pin=HL1_U_DCMotorDriver2-1
+Added Pin To Net: NetName=NetHL1_U_DCMotorDriver2_2 Pin=HL1_U_DCMotorDriver2-2
+Added Pin To Net: NetName=+5V Pin=HL2_U_DCMotorDriver1-1
+Added Pin To Net: NetName=NetHL2_U_DCMotorDriver1_2 Pin=HL2_U_DCMotorDriver1-2
+Added Pin To Net: NetName=+5V Pin=HL2_U_DCMotorDriver2-1
+Added Pin To Net: NetName=NetHL2_U_DCMotorDriver2_2 Pin=HL2_U_DCMotorDriver2-2
+Added Pin To Net: NetName=+5V Pin=HL3-1
+Added Pin To Net: NetName=NetHL3_2 Pin=HL3-2
+Added Pin To Net: NetName=+5V Pin=HL4-1
+Added Pin To Net: NetName=NetHL4_2 Pin=HL4-2
+Added Pin To Net: NetName=+5V Pin=HL5-1
+Added Pin To Net: NetName=NetHL5_2 Pin=HL5-2
+Added Pin To Net: NetName=+5V Pin=HL6-1
+Added Pin To Net: NetName=NetHL6_2 Pin=HL6-2
+Added Pin To Net: NetName=+5V Pin=HL7-1
+Added Pin To Net: NetName=NetHL7_2 Pin=HL7-2
+Added Pin To Net: NetName=+5V Pin=HL8-1
+Added Pin To Net: NetName=NetHL8_2 Pin=HL8-2
+Added Pin To Net: NetName=NetHL9_1 Pin=HL9-1
+Added Pin To Net: NetName=NetHL9_2 Pin=HL9-2
+Added Pin To Net: NetName=+5V Pin=HL10_U_Programming_Interface1-1
+Added Pin To Net: NetName=NetHL10_U_Programming_Interface1_2 Pin=HL10_U_Programming_Interface1-2
+Added Pin To Net: NetName=+5V Pin=HL10_U_Programming_Interface2-1
+Added Pin To Net: NetName=NetHL10_U_Programming_Interface2_2 Pin=HL10_U_Programming_Interface2-2
+Added Pin To Net: NetName=+5V Pin=HL10_U_Programming_Interface3-1
+Added Pin To Net: NetName=NetHL10_U_Programming_Interface3_2 Pin=HL10_U_Programming_Interface3-2
+Added Pin To Net: NetName=+5V Pin=HL11_U_Programming_Interface1-1
+Added Pin To Net: NetName=NetHL11_U_Programming_Interface1_2 Pin=HL11_U_Programming_Interface1-2
+Added Pin To Net: NetName=+5V Pin=HL11_U_Programming_Interface2-1
+Added Pin To Net: NetName=NetHL11_U_Programming_Interface2_2 Pin=HL11_U_Programming_Interface2-2
+Added Pin To Net: NetName=+5V Pin=HL11_U_Programming_Interface3-1
+Added Pin To Net: NetName=NetHL11_U_Programming_Interface3_2 Pin=HL11_U_Programming_Interface3-2
+Added Pin To Net: NetName=+5V Pin=HL12-1
+Added Pin To Net: NetName=NetHL12_2 Pin=HL12-2
+Added Pin To Net: NetName=+5V Pin=HL13-1
+Added Pin To Net: NetName=NetHL13_2 Pin=HL13-2
+Added Pin To Net: NetName=+5V Pin=K1_U_DCMotorDriver1-1
+Added Pin To Net: NetName=NetK1_U_DCMotorDriver1_2 Pin=K1_U_DCMotorDriver1-2
+Added Pin To Net: NetName=NetK1_U_DCMotorDriver1_3 Pin=K1_U_DCMotorDriver1-3
+Added Pin To Net: NetName=GND Pin=K1_U_DCMotorDriver1-4
+Added Pin To Net: NetName=+12V Pin=K1_U_DCMotorDriver1-5
+Added Pin To Net: NetName=+5V Pin=K1_U_DCMotorDriver2-1
+Added Pin To Net: NetName=NetK1_U_DCMotorDriver2_2 Pin=K1_U_DCMotorDriver2-2
+Added Pin To Net: NetName=NetK1_U_DCMotorDriver2_3 Pin=K1_U_DCMotorDriver2-3
+Added Pin To Net: NetName=GND Pin=K1_U_DCMotorDriver2-4
+Added Pin To Net: NetName=+12V Pin=K1_U_DCMotorDriver2-5
+Added Pin To Net: NetName=+5V Pin=K2_U_DCMotorDriver1-1
+Added Pin To Net: NetName=NetK2_U_DCMotorDriver1_2 Pin=K2_U_DCMotorDriver1-2
+Added Pin To Net: NetName=NetK2_U_DCMotorDriver1_3 Pin=K2_U_DCMotorDriver1-3
+Added Pin To Net: NetName=GND Pin=K2_U_DCMotorDriver1-4
+Added Pin To Net: NetName=+12V Pin=K2_U_DCMotorDriver1-5
+Added Pin To Net: NetName=+5V Pin=K2_U_DCMotorDriver2-1
+Added Pin To Net: NetName=NetK2_U_DCMotorDriver2_2 Pin=K2_U_DCMotorDriver2-2
+Added Pin To Net: NetName=NetK2_U_DCMotorDriver2_3 Pin=K2_U_DCMotorDriver2-3
+Added Pin To Net: NetName=GND Pin=K2_U_DCMotorDriver2-4
+Added Pin To Net: NetName=+12V Pin=K2_U_DCMotorDriver2-5
+Added Pin To Net: NetName=+5V Pin=K3-1
+Added Pin To Net: NetName=NetK3_2 Pin=K3-2
+Added Pin To Net: NetName=220V_N.O7 Pin=K3-3
+Added Pin To Net: NetName=220V_N.C7 Pin=K3-4
+Added Pin To Net: NetName=220V_ZERO7 Pin=K3-5
+Added Pin To Net: NetName=+5V Pin=K4-1
+Added Pin To Net: NetName=NetK4_2 Pin=K4-2
+Added Pin To Net: NetName=220V_N.O8 Pin=K4-3
+Added Pin To Net: NetName=220V_N.C8 Pin=K4-4
+Added Pin To Net: NetName=220V_ZERO8 Pin=K4-5
+Added Pin To Net: NetName=+5V Pin=K5-1
+Added Pin To Net: NetName=NetK5_2 Pin=K5-2
+Added Pin To Net: NetName=220V_N.O9 Pin=K5-3
+Added Pin To Net: NetName=220V_N.C9 Pin=K5-4
+Added Pin To Net: NetName=220V_ZERO9 Pin=K5-5
+Added Pin To Net: NetName=+5V Pin=K6-1
+Added Pin To Net: NetName=NetK6_2 Pin=K6-2
+Added Pin To Net: NetName=220V_N.O10 Pin=K6-3
+Added Pin To Net: NetName=220V_N.C10 Pin=K6-4
+Added Pin To Net: NetName=220V_ZERO10 Pin=K6-5
+Added Pin To Net: NetName=+5V Pin=K7-1
+Added Pin To Net: NetName=NetK7_2 Pin=K7-2
+Added Pin To Net: NetName=220V_N.O11 Pin=K7-3
+Added Pin To Net: NetName=220V_N.C12 Pin=K7-4
+Added Pin To Net: NetName=220V_ZERO11 Pin=K7-5
+Added Pin To Net: NetName=+5V Pin=K8-1
+Added Pin To Net: NetName=NetK8_2 Pin=K8-2
+Added Pin To Net: NetName=220V_N.O3 Pin=K8-3
+Added Pin To Net: NetName=220V_N.C3 Pin=K8-4
+Added Pin To Net: NetName=220V_ZERO3 Pin=K8-5
+Added Pin To Net: NetName=NetHL9_1 Pin=K9-1
+Added Pin To Net: NetName=NetK9_2 Pin=K9-2
+Added Pin To Net: NetName=220V_N.O13 Pin=K9-3
+Added Pin To Net: NetName=220V_N.C13 Pin=K9-4
+Added Pin To Net: NetName=220V_ZERO13 Pin=K9-5
+Added Pin To Net: NetName=+5V Pin=K10-1
+Added Pin To Net: NetName=NetK10_2 Pin=K10-2
+Added Pin To Net: NetName=220V_N.O19 Pin=K10-3
+Added Pin To Net: NetName=220V_N.C19 Pin=K10-4
+Added Pin To Net: NetName=220V_ZERO19 Pin=K10-5
+Added Pin To Net: NetName=+5V Pin=K11-1
+Added Pin To Net: NetName=NetK11_2 Pin=K11-2
+Added Pin To Net: NetName=220V_N.O20 Pin=K11-3
+Added Pin To Net: NetName=220V_N.C20 Pin=K11-4
+Added Pin To Net: NetName=220V_ZERO20 Pin=K11-5
+Added Pin To Net: NetName=+5V Pin=L1-1
+Added Pin To Net: NetName=NetC6_2 Pin=L1-2
+Added Pin To Net: NetName=+5V Pin=L2-1
+Added Pin To Net: NetName=NetC2_2 Pin=L2-2
+Added Pin To Net: NetName=+5V Pin=L3-1
+Added Pin To Net: NetName=NetC3_2 Pin=L3-2
+Added Pin To Net: NetName=+5V Pin=L4-1
+Added Pin To Net: NetName=NetC4_2 Pin=L4-2
+Added Pin To Net: NetName=+5V Pin=L5-1
+Added Pin To Net: NetName=NetC22_2 Pin=L5-2
+Added Pin To Net: NetName=+5V Pin=L6-1
+Added Pin To Net: NetName=NetC13_2 Pin=L6-2
+Added Pin To Net: NetName=+5V Pin=L7-1
+Added Pin To Net: NetName=NetC14_2 Pin=L7-2
+Added Pin To Net: NetName=+5V Pin=L8-1
+Added Pin To Net: NetName=NetC15_2 Pin=L8-2
+Added Pin To Net: NetName=+5V Pin=L9-1
+Added Pin To Net: NetName=NetC17_2 Pin=L9-2
+Added Pin To Net: NetName=+5V Pin=L10-1
+Added Pin To Net: NetName=NetC23_2 Pin=L10-2
+Added Pin To Net: NetName=+5V Pin=L11-1
+Added Pin To Net: NetName=NetC24_2 Pin=L11-2
+Added Pin To Net: NetName=+5V Pin=L12-1
+Added Pin To Net: NetName=NetC25_2 Pin=L12-2
+Added Pin To Net: NetName=+5V Pin=L13_U_Programming_Interface1-1
+Added Pin To Net: NetName=NetC1_U_Programming_Interface3_1 Pin=L13_U_Programming_Interface1-2
+Added Pin To Net: NetName=+5V Pin=L13_U_Programming_Interface2-1
+Added Pin To Net: NetName=NetC1_U_Programming_Interface2_1 Pin=L13_U_Programming_Interface2-2
+Added Pin To Net: NetName=+5V Pin=L13_U_Programming_Interface3-1
+Added Pin To Net: NetName=NetC1_U_Programming_Interface1_1 Pin=L13_U_Programming_Interface3-2
+Added Pin To Net: NetName=THERM_SENS Pin=R1-1
+Added Pin To Net: NetName=+5V Pin=R1-2
+Added Pin To Net: NetName=NetR2_U_DCMotorDriver1_1 Pin=R2_U_DCMotorDriver1-1
+Added Pin To Net: NetName=GND Pin=R2_U_DCMotorDriver1-2
+Added Pin To Net: NetName=NetR2_U_DCMotorDriver2_1 Pin=R2_U_DCMotorDriver2-1
+Added Pin To Net: NetName=GND Pin=R2_U_DCMotorDriver2-2
+Added Pin To Net: NetName=NetR14_1 Pin=R3_U_DCMotorDriver1-1
+Added Pin To Net: NetName=GND Pin=R3_U_DCMotorDriver1-2
+Added Pin To Net: NetName=NetR4_1 Pin=R3_U_DCMotorDriver2-1
+Added Pin To Net: NetName=GND Pin=R3_U_DCMotorDriver2-2
+Added Pin To Net: NetName=DCMOTOR_FORWARD_U_DCMotorDriver1 Pin=R4_U_DCMotorDriver1-1
+Added Pin To Net: NetName=DCMOTOR_FORWARD_U_DCMotorDriver2 Pin=R4_U_DCMotorDriver2-1
+Added Pin To Net: NetName=DCMOTOR_REVERSE_U_DCMotorDriver1 Pin=R5_U_DCMotorDriver1-1
+Added Pin To Net: NetName=DCMOTOR_REVERSE_U_DCMotorDriver2 Pin=R5_U_DCMotorDriver2-1
+Added Pin To Net: NetName=NetK1_U_DCMotorDriver1_2 Pin=R6_U_DCMotorDriver1-1
+Added Pin To Net: NetName=NetHL1_U_DCMotorDriver1_2 Pin=R6_U_DCMotorDriver1-2
+Added Pin To Net: NetName=NetK1_U_DCMotorDriver2_2 Pin=R6_U_DCMotorDriver2-1
+Added Pin To Net: NetName=NetHL1_U_DCMotorDriver2_2 Pin=R6_U_DCMotorDriver2-2
+Added Pin To Net: NetName=NetK2_U_DCMotorDriver1_2 Pin=R7_U_DCMotorDriver1-1
+Added Pin To Net: NetName=NetHL2_U_DCMotorDriver1_2 Pin=R7_U_DCMotorDriver1-2
+Added Pin To Net: NetName=NetK2_U_DCMotorDriver2_2 Pin=R7_U_DCMotorDriver2-1
+Added Pin To Net: NetName=NetHL2_U_DCMotorDriver2_2 Pin=R7_U_DCMotorDriver2-2
+Added Pin To Net: NetName=NetR1_U_DCMotorDriver1_1 Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=NetR1_U_DCMotorDriver2_1 Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=NetR3_1 Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=HEATER1 Pin=R11-1
+Added Pin To Net: NetName=NetR1_U_DCMotorDriver1_1 Pin=R11-2
+Added Pin To Net: NetName=HEATER2 Pin=R12-1
+Added Pin To Net: NetName=NetR1_U_DCMotorDriver2_1 Pin=R12-2
+Added Pin To Net: NetName=HEATER3 Pin=R13-1
+Added Pin To Net: NetName=NetR3_1 Pin=R13-2
+Added Pin To Net: NetName=NetK3_2 Pin=R14-1
+Added Pin To Net: NetName=NetHL3_2 Pin=R14-2
+Added Pin To Net: NetName=NetK4_2 Pin=R15-1
+Added Pin To Net: NetName=NetHL4_2 Pin=R15-2
+Added Pin To Net: NetName=NetK5_2 Pin=R16-1
+Added Pin To Net: NetName=NetHL5_2 Pin=R16-2
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R17-2
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Pin To Net: NetName=VALVE1 Pin=R21-1
+Added Pin To Net: NetName=NetR17_1 Pin=R21-2
+Added Pin To Net: NetName=VALVE2 Pin=R22-1
+Added Pin To Net: NetName=NetR18_1 Pin=R22-2
+Added Pin To Net: NetName=VALVE3 Pin=R23-1
+Added Pin To Net: NetName=NetR19_1 Pin=R23-2
+Added Pin To Net: NetName=VALVE4 Pin=R24-1
+Added Pin To Net: NetName=NetR20_1 Pin=R24-2
+Added Pin To Net: NetName=NetK6_2 Pin=R25-1
+Added Pin To Net: NetName=NetHL6_2 Pin=R25-2
+Added Pin To Net: NetName=NetK7_2 Pin=R26-1
+Added Pin To Net: NetName=NetHL7_2 Pin=R26-2
+Added Pin To Net: NetName=NetK8_2 Pin=R27-1
+Added Pin To Net: NetName=NetHL8_2 Pin=R27-2
+Added Pin To Net: NetName=NetK9_2 Pin=R28-1
+Added Pin To Net: NetName=NetHL9_2 Pin=R28-2
+Added Pin To Net: NetName=NetR29_U_Programming_Interface1_1 Pin=R29_U_Programming_Interface1-1
+Added Pin To Net: NetName=NetHL10_U_Programming_Interface1_2 Pin=R29_U_Programming_Interface1-2
+Added Pin To Net: NetName=NetR29_U_Programming_Interface2_1 Pin=R29_U_Programming_Interface2-1
+Added Pin To Net: NetName=NetHL10_U_Programming_Interface2_2 Pin=R29_U_Programming_Interface2-2
+Added Pin To Net: NetName=NetR29_U_Programming_Interface3_1 Pin=R29_U_Programming_Interface3-1
+Added Pin To Net: NetName=NetHL10_U_Programming_Interface3_2 Pin=R29_U_Programming_Interface3-2
+Added Pin To Net: NetName=NetR30_U_Programming_Interface1_1 Pin=R30_U_Programming_Interface1-1
+Added Pin To Net: NetName=NetHL11_U_Programming_Interface1_2 Pin=R30_U_Programming_Interface1-2
+Added Pin To Net: NetName=NetR30_U_Programming_Interface2_1 Pin=R30_U_Programming_Interface2-1
+Added Pin To Net: NetName=NetHL11_U_Programming_Interface2_2 Pin=R30_U_Programming_Interface2-2
+Added Pin To Net: NetName=NetR30_U_Programming_Interface3_1 Pin=R30_U_Programming_Interface3-1
+Added Pin To Net: NetName=NetHL11_U_Programming_Interface3_2 Pin=R30_U_Programming_Interface3-2
+Added Pin To Net: NetName=MOSI_U_Programming_Interface1 Pin=R31_U_Programming_Interface1-1
+Added Pin To Net: NetName=NetR31_U_Programming_Interface1_2 Pin=R31_U_Programming_Interface1-2
+Added Pin To Net: NetName=MOSI_U_Programming_Interface2 Pin=R31_U_Programming_Interface2-1
+Added Pin To Net: NetName=NetR31_U_Programming_Interface2_2 Pin=R31_U_Programming_Interface2-2
+Added Pin To Net: NetName=MOSI_U_Programming_Interface3 Pin=R31_U_Programming_Interface3-1
+Added Pin To Net: NetName=NetR31_U_Programming_Interface3_2 Pin=R31_U_Programming_Interface3-2
+Added Pin To Net: NetName=MISO_U_Programming_Interface1 Pin=R32_U_Programming_Interface1-1
+Added Pin To Net: NetName=NetR32_U_Programming_Interface1_2 Pin=R32_U_Programming_Interface1-2
+Added Pin To Net: NetName=MISO_U_Programming_Interface2 Pin=R32_U_Programming_Interface2-1
+Added Pin To Net: NetName=NetR32_U_Programming_Interface2_2 Pin=R32_U_Programming_Interface2-2
+Added Pin To Net: NetName=MISO_U_Programming_Interface3 Pin=R32_U_Programming_Interface3-1
+Added Pin To Net: NetName=NetR32_U_Programming_Interface3_2 Pin=R32_U_Programming_Interface3-2
+Added Pin To Net: NetName=NetDD1_20 Pin=R33-1
+Added Pin To Net: NetName=+5V Pin=R33-2
+Added Pin To Net: NetName=NetDD1_19 Pin=R34-1
+Added Pin To Net: NetName=+5V Pin=R34-2
+Added Pin To Net: NetName=NetR33_1 Pin=R35-1
+Added Pin To Net: NetName=GND Pin=R35-2
+Added Pin To Net: NetName=NetR34_1 Pin=R36-1
+Added Pin To Net: NetName=GND Pin=R36-2
+Added Pin To Net: NetName=ACMOTOR_FORWARD Pin=R37-1
+Added Pin To Net: NetName=NetR33_1 Pin=R37-2
+Added Pin To Net: NetName=ACMOTOR_REVERSE Pin=R38-1
+Added Pin To Net: NetName=NetR34_1 Pin=R38-2
+Added Pin To Net: NetName=NetK10_2 Pin=R39-1
+Added Pin To Net: NetName=NetHL12_2 Pin=R39-2
+Added Pin To Net: NetName=NetK11_2 Pin=R40-1
+Added Pin To Net: NetName=NetHL13_2 Pin=R40-2
+Added Pin To Net: NetName=RESET_U_Programming_Interface1 Pin=SA1_U_Programming_Interface1-1
+Added Pin To Net: NetName=RESET_U_Programming_Interface1 Pin=SA1_U_Programming_Interface1-1
+Added Pin To Net: NetName=GND Pin=SA1_U_Programming_Interface1-2
+Added Pin To Net: NetName=GND Pin=SA1_U_Programming_Interface1-2
+Added Pin To Net: NetName=RESET_U_Programming_Interface2 Pin=SA1_U_Programming_Interface2-1
+Added Pin To Net: NetName=RESET_U_Programming_Interface2 Pin=SA1_U_Programming_Interface2-1
+Added Pin To Net: NetName=GND Pin=SA1_U_Programming_Interface2-2
+Added Pin To Net: NetName=GND Pin=SA1_U_Programming_Interface2-2
+Added Pin To Net: NetName=RESET_U_Programming_Interface3 Pin=SA1_U_Programming_Interface3-1
+Added Pin To Net: NetName=RESET_U_Programming_Interface3 Pin=SA1_U_Programming_Interface3-1
+Added Pin To Net: NetName=GND Pin=SA1_U_Programming_Interface3-2
+Added Pin To Net: NetName=GND Pin=SA1_U_Programming_Interface3-2
+Added Pin To Net: NetName=NetK1_U_DCMotorDriver1_2 Pin=VD1_U_DCMotorDriver1-A
+Added Pin To Net: NetName=+5V Pin=VD1_U_DCMotorDriver1-K
+Added Pin To Net: NetName=NetK1_U_DCMotorDriver2_2 Pin=VD1_U_DCMotorDriver2-A
+Added Pin To Net: NetName=+5V Pin=VD1_U_DCMotorDriver2-K
+Added Pin To Net: NetName=NetK2_U_DCMotorDriver1_2 Pin=VD2_U_DCMotorDriver1-A
+Added Pin To Net: NetName=+5V Pin=VD2_U_DCMotorDriver1-K
+Added Pin To Net: NetName=NetK2_U_DCMotorDriver2_2 Pin=VD2_U_DCMotorDriver2-A
+Added Pin To Net: NetName=+5V Pin=VD2_U_DCMotorDriver2-K
+Added Pin To Net: NetName=NetK3_2 Pin=VD3-A
+Added Pin To Net: NetName=+5V Pin=VD3-K
+Added Pin To Net: NetName=NetK4_2 Pin=VD4-A
+Added Pin To Net: NetName=+5V Pin=VD4-K
+Added Pin To Net: NetName=NetK5_2 Pin=VD5-A
+Added Pin To Net: NetName=+5V Pin=VD5-K
+Added Pin To Net: NetName=NetK6_2 Pin=VD6-A
+Added Pin To Net: NetName=+5V Pin=VD6-K
+Added Pin To Net: NetName=NetK7_2 Pin=VD7-A
+Added Pin To Net: NetName=+5V Pin=VD7-K
+Added Pin To Net: NetName=NetK8_2 Pin=VD8-A
+Added Pin To Net: NetName=+5V Pin=VD8-K
+Added Pin To Net: NetName=NetK9_2 Pin=VD9-A
+Added Pin To Net: NetName=NetHL9_1 Pin=VD9-K
+Added Pin To Net: NetName=NetK10_2 Pin=VD10-A
+Added Pin To Net: NetName=+5V Pin=VD10-K
+Added Pin To Net: NetName=NetK11_2 Pin=VD11-A
+Added Pin To Net: NetName=+5V Pin=VD11-K
+Added Pin To Net: NetName=NetR2_U_DCMotorDriver1_1 Pin=VT1_U_DCMotorDriver1-1
+Added Pin To Net: NetName=GND Pin=VT1_U_DCMotorDriver1-2
+Added Pin To Net: NetName=NetK1_U_DCMotorDriver1_2 Pin=VT1_U_DCMotorDriver1-3
+Added Pin To Net: NetName=NetR2_U_DCMotorDriver2_1 Pin=VT1_U_DCMotorDriver2-1
+Added Pin To Net: NetName=GND Pin=VT1_U_DCMotorDriver2-2
+Added Pin To Net: NetName=NetK1_U_DCMotorDriver2_2 Pin=VT1_U_DCMotorDriver2-3
+Added Pin To Net: NetName=NetR14_1 Pin=VT2_U_DCMotorDriver1-1
+Added Pin To Net: NetName=GND Pin=VT2_U_DCMotorDriver1-2
+Added Pin To Net: NetName=NetK2_U_DCMotorDriver1_2 Pin=VT2_U_DCMotorDriver1-3
+Added Pin To Net: NetName=NetR4_1 Pin=VT2_U_DCMotorDriver2-1
+Added Pin To Net: NetName=GND Pin=VT2_U_DCMotorDriver2-2
+Added Pin To Net: NetName=NetK2_U_DCMotorDriver2_2 Pin=VT2_U_DCMotorDriver2-3
+Added Pin To Net: NetName=NetR1_U_DCMotorDriver1_1 Pin=VT3-1
+Added Pin To Net: NetName=GND Pin=VT3-2
+Added Pin To Net: NetName=NetK3_2 Pin=VT3-3
+Added Pin To Net: NetName=NetR1_U_DCMotorDriver2_1 Pin=VT4-1
+Added Pin To Net: NetName=GND Pin=VT4-2
+Added Pin To Net: NetName=NetK4_2 Pin=VT4-3
+Added Pin To Net: NetName=NetR3_1 Pin=VT5-1
+Added Pin To Net: NetName=GND Pin=VT5-2
+Added Pin To Net: NetName=NetK5_2 Pin=VT5-3
+Added Pin To Net: NetName=NetR17_1 Pin=VT6-1
+Added Pin To Net: NetName=GND Pin=VT6-2
+Added Pin To Net: NetName=NetK6_2 Pin=VT6-3
+Added Pin To Net: NetName=NetR18_1 Pin=VT7-1
+Added Pin To Net: NetName=GND Pin=VT7-2
+Added Pin To Net: NetName=NetK7_2 Pin=VT7-3
+Added Pin To Net: NetName=NetR19_1 Pin=VT8-1
+Added Pin To Net: NetName=GND Pin=VT8-2
+Added Pin To Net: NetName=NetK8_2 Pin=VT8-3
+Added Pin To Net: NetName=NetR20_1 Pin=VT9-1
+Added Pin To Net: NetName=GND Pin=VT9-2
+Added Pin To Net: NetName=NetK9_2 Pin=VT9-3
+Added Pin To Net: NetName=NetR31_U_Programming_Interface1_2 Pin=VT10_U_Programming_Interface1-1
+Added Pin To Net: NetName=GND Pin=VT10_U_Programming_Interface1-2
+Added Pin To Net: NetName=NetR29_U_Programming_Interface1_1 Pin=VT10_U_Programming_Interface1-3
+Added Pin To Net: NetName=NetR31_U_Programming_Interface2_2 Pin=VT10_U_Programming_Interface2-1
+Added Pin To Net: NetName=GND Pin=VT10_U_Programming_Interface2-2
+Added Pin To Net: NetName=NetR29_U_Programming_Interface2_1 Pin=VT10_U_Programming_Interface2-3
+Added Pin To Net: NetName=NetR31_U_Programming_Interface3_2 Pin=VT10_U_Programming_Interface3-1
+Added Pin To Net: NetName=GND Pin=VT10_U_Programming_Interface3-2
+Added Pin To Net: NetName=NetR29_U_Programming_Interface3_1 Pin=VT10_U_Programming_Interface3-3
+Added Pin To Net: NetName=NetR32_U_Programming_Interface1_2 Pin=VT11_U_Programming_Interface1-1
+Added Pin To Net: NetName=GND Pin=VT11_U_Programming_Interface1-2
+Added Pin To Net: NetName=NetR30_U_Programming_Interface1_1 Pin=VT11_U_Programming_Interface1-3
+Added Pin To Net: NetName=NetR32_U_Programming_Interface2_2 Pin=VT11_U_Programming_Interface2-1
+Added Pin To Net: NetName=GND Pin=VT11_U_Programming_Interface2-2
+Added Pin To Net: NetName=NetR30_U_Programming_Interface2_1 Pin=VT11_U_Programming_Interface2-3
+Added Pin To Net: NetName=NetR32_U_Programming_Interface3_2 Pin=VT11_U_Programming_Interface3-1
+Added Pin To Net: NetName=GND Pin=VT11_U_Programming_Interface3-2
+Added Pin To Net: NetName=NetR30_U_Programming_Interface3_1 Pin=VT11_U_Programming_Interface3-3
+Added Pin To Net: NetName=NetR33_1 Pin=VT12-1
+Added Pin To Net: NetName=GND Pin=VT12-2
+Added Pin To Net: NetName=NetK10_2 Pin=VT12-3
+Added Pin To Net: NetName=NetR34_1 Pin=VT13-1
+Added Pin To Net: NetName=GND Pin=VT13-2
+Added Pin To Net: NetName=NetK11_2 Pin=VT13-3
+Added Pin To Net: NetName=+5V Pin=XS1-1
+Added Pin To Net: NetName=GND Pin=XS1-2
+Added Pin To Net: NetName=+12V Pin=XS2-1
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Pin To Net: NetName=MISO_U_Programming_Interface1 Pin=XS3_U_Programming_Interface1-1
+Added Pin To Net: NetName=NetC1_U_Programming_Interface3_1 Pin=XS3_U_Programming_Interface1-2
+Added Pin To Net: NetName=SCK_U_Programming_Interface1 Pin=XS3_U_Programming_Interface1-3
+Added Pin To Net: NetName=MOSI_U_Programming_Interface1 Pin=XS3_U_Programming_Interface1-4
+Added Pin To Net: NetName=RESET_U_Programming_Interface1 Pin=XS3_U_Programming_Interface1-5
+Added Pin To Net: NetName=GND Pin=XS3_U_Programming_Interface1-6
+Added Pin To Net: NetName=MISO_U_Programming_Interface2 Pin=XS3_U_Programming_Interface2-1
+Added Pin To Net: NetName=NetC1_U_Programming_Interface2_1 Pin=XS3_U_Programming_Interface2-2
+Added Pin To Net: NetName=SCK_U_Programming_Interface2 Pin=XS3_U_Programming_Interface2-3
+Added Pin To Net: NetName=MOSI_U_Programming_Interface2 Pin=XS3_U_Programming_Interface2-4
+Added Pin To Net: NetName=RESET_U_Programming_Interface2 Pin=XS3_U_Programming_Interface2-5
+Added Pin To Net: NetName=GND Pin=XS3_U_Programming_Interface2-6
+Added Pin To Net: NetName=MISO_U_Programming_Interface3 Pin=XS3_U_Programming_Interface3-1
+Added Pin To Net: NetName=NetC1_U_Programming_Interface1_1 Pin=XS3_U_Programming_Interface3-2
+Added Pin To Net: NetName=SCK_U_Programming_Interface3 Pin=XS3_U_Programming_Interface3-3
+Added Pin To Net: NetName=MOSI_U_Programming_Interface3 Pin=XS3_U_Programming_Interface3-4
+Added Pin To Net: NetName=RESET_U_Programming_Interface3 Pin=XS3_U_Programming_Interface3-5
+Added Pin To Net: NetName=GND Pin=XS3_U_Programming_Interface3-6
+Added Pin To Net: NetName=NetXS4_1 Pin=XS4-1
+Added Pin To Net: NetName=NetXS4_2 Pin=XS4-2
+Added Pin To Net: NetName=NetXS4_2 Pin=XS5-1
+Added Pin To Net: NetName=NetXS4_1 Pin=XS5-2
+Added Pin To Net: NetName=NetDD3_13 Pin=XS5-3
+Added Pin To Net: NetName=NetDD3_14 Pin=XS5-4
+Added Pin To Net: NetName=NetDD1_19 Pin=XS5-5
+Added Pin To Net: NetName=NetDD1_20 Pin=XS5-6
+Added Pin To Net: NetName=NetDD3_12 Pin=XS5-7
+Added Pin To Net: NetName=GND Pin=XS5-8
+Added Pin To Net: NetName=+5V Pin=XT1-1
+Added Pin To Net: NetName=PRESSURE_P Pin=XT1-2
+Added Pin To Net: NetName=PRESSURE_N Pin=XT2-1
+Added Pin To Net: NetName=AGND Pin=XT2-2
+Added Pin To Net: NetName=THERM_SENS Pin=XT3-1
+Added Pin To Net: NetName=AGND Pin=XT3-2
+Added Pin To Net: NetName=+5V Pin=XT4-1
+Added Pin To Net: NetName=LIMIT_SWITCH1 Pin=XT4-2
+Added Pin To Net: NetName=GND Pin=XT4-3
+Added Pin To Net: NetName=+5V Pin=XT5-1
+Added Pin To Net: NetName=LIMIT_SWITCH2 Pin=XT5-2
+Added Pin To Net: NetName=GND Pin=XT5-3
+Added Pin To Net: NetName=NetK1_U_DCMotorDriver1_3 Pin=XT6_U_DCMotorDriver1-1
+Added Pin To Net: NetName=NetK2_U_DCMotorDriver1_3 Pin=XT6_U_DCMotorDriver1-2
+Added Pin To Net: NetName=NetK1_U_DCMotorDriver2_3 Pin=XT6_U_DCMotorDriver2-1
+Added Pin To Net: NetName=NetK2_U_DCMotorDriver2_3 Pin=XT6_U_DCMotorDriver2-2
+Added Pin To Net: NetName=220V_N.O7 Pin=XT7-1
+Added Pin To Net: NetName=220V_ZERO7 Pin=XT7-2
+Added Pin To Net: NetName=220V_N.O8 Pin=XT8-1
+Added Pin To Net: NetName=220V_ZERO8 Pin=XT8-2
+Added Pin To Net: NetName=220V_N.O9 Pin=XT9-1
+Added Pin To Net: NetName=220V_ZERO9 Pin=XT9-2
+Added Pin To Net: NetName=220V_N.O10 Pin=XT10-1
+Added Pin To Net: NetName=220V_ZERO10 Pin=XT10-2
+Added Pin To Net: NetName=220V_N.O11 Pin=XT11-1
+Added Pin To Net: NetName=220V_ZERO11 Pin=XT11-2
+Added Pin To Net: NetName=220V_N.O3 Pin=XT12-1
+Added Pin To Net: NetName=220V_ZERO3 Pin=XT12-2
+Added Pin To Net: NetName=220V_N.O13 Pin=XT13-1
+Added Pin To Net: NetName=220V_ZERO13 Pin=XT13-2
+Added Pin To Net: NetName=+5V Pin=XT14-1
+Added Pin To Net: NetName=LIMIT_SWITCH3 Pin=XT14-2
+Added Pin To Net: NetName=GND Pin=XT14-3
+Added Pin To Net: NetName=+5V Pin=XT15-1
+Added Pin To Net: NetName=LIMIT_SWITCH4 Pin=XT15-2
+Added Pin To Net: NetName=GND Pin=XT15-3
+Added Pin To Net: NetName=+5V Pin=XT16-1
+Added Pin To Net: NetName=LIMIT_SWITCH5 Pin=XT16-2
+Added Pin To Net: NetName=GND Pin=XT16-3
+Added Pin To Net: NetName=+5V Pin=XT17-1
+Added Pin To Net: NetName=LIMIT_SWITCH6 Pin=XT17-2
+Added Pin To Net: NetName=GND Pin=XT17-3
+Added Pin To Net: NetName=+5V Pin=XT18-1
+Added Pin To Net: NetName=LIMIT_SWITCH7 Pin=XT18-2
+Added Pin To Net: NetName=GND Pin=XT18-3
+Added Pin To Net: NetName=220V_N.O19 Pin=XT19-1
+Added Pin To Net: NetName=220V_ZERO19 Pin=XT19-2
+Added Pin To Net: NetName=220V_N.O20 Pin=XT20-1
+Added Pin To Net: NetName=220V_ZERO20 Pin=XT20-2
+Added Pin To Net: NetName=+5V Pin=XT21-1
+Added Pin To Net: NetName=AGND Pin=XT21-2
+Added Pin To Net: NetName=CURRENT_SENS1 Pin=XT21-3
+Added Pin To Net: NetName=+5V Pin=XT22-1
+Added Pin To Net: NetName=AGND Pin=XT22-2
+Added Pin To Net: NetName=CURRENT_SENS2 Pin=XT22-3
+Added Pin To Net: NetName=+5V Pin=XT23-1
+Added Pin To Net: NetName=AGND Pin=XT23-2
+Added Pin To Net: NetName=CURRENT_SENS3 Pin=XT23-3
+Added Pin To Net: NetName=+5V Pin=XT24-1
+Added Pin To Net: NetName=AGND Pin=XT24-2
+Added Pin To Net: NetName=CURRENT_SENS4 Pin=XT24-3
+Change Net Name : Old Net Name=NetC1_U_Programming_Interface1_1 New Net Name=NetC22_U_Programming_Interface3_1
+Change Net Name : Old Net Name=NetC1_U_Programming_Interface2_1 New Net Name=NetC22_U_Programming_Interface2_1
+Change Net Name : Old Net Name=NetC1_U_Programming_Interface3_1 New Net Name=NetC22_U_Programming_Interface1_1
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC7_2
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC8_2
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetC11_2
+Change Net Name : Old Net Name=NetC22_2 New Net Name=NetC12_2
+Change Net Name : Old Net Name=NetC23_2 New Net Name=NetC18_2
+Change Net Name : Old Net Name=NetC24_2 New Net Name=NetC19_2
+Change Net Name : Old Net Name=NetC25_2 New Net Name=NetC20_2
+Change Net Name : Old Net Name=NetC26_2 New Net Name=NetC21_2
+Change Net Name : Old Net Name=NetR1_U_DCMotorDriver1_1 New Net Name=NetR8_1
+Change Net Name : Old Net Name=NetR1_U_DCMotorDriver2_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR3_U_DCMotorDriver2_1
+Change Net Name : Old Net Name=NetR14_1 New Net Name=NetR3_U_DCMotorDriver1_1
+Change Net Name : Old Net Name=NetR33_1 New Net Name=NetR35_1
+Change Net Name : Old Net Name=NetR34_1 New Net Name=NetR36_1
+Added Member To Class: ClassName=U_Water_SCH Member=Component BQ1 16 Ã√ˆ
+Added Member To Class: ClassName=U_Water_SCH Member=Component BQ2 16 Ã√ˆ
+Added Member To Class: ClassName=U_Spin_SCH Member=Component BQ3 16 Ã√ˆ
+Added Member To Class: ClassName=U_Spin_SCH Member=Component BQ4 16 Ã√ˆ
+Added Member To Class: ClassName=U_Master_SCH Member=Component BQ5 16 Ã√ˆ
+Added Member To Class: ClassName=U_Master_SCH Member=Component BQ6 16 Ã√ˆ
+Added Member To Class: ClassName=U_Water_SCH Member=Component C1 CC0603JRNP09BN200
+Added Member To Class: ClassName=U_Water_SCH Member=Component C2 CC0603JRNP09BN200
+Added Member To Class: ClassName=U_Water_SCH Member=Component C3 CC0603JRNP09BN200
+Added Member To Class: ClassName=U_Water_SCH Member=Component C4 CC0603JRNP09BN200
+Added Member To Class: ClassName=U_Power_SCH Member=Component C5 CA035M0220REG
+Added Member To Class: ClassName=U_Power_SCH Member=Component C6 100n
+Added Member To Class: ClassName=U_Power_SCH Member=Component C7 100n
+Added Member To Class: ClassName=U_Power_SCH Member=Component C8 100n
+Added Member To Class: ClassName=U_Power_SCH Member=Component C9 CA035M0220REG
+Added Member To Class: ClassName=U_Power_SCH Member=Component C10 100n
+Added Member To Class: ClassName=U_Power_SCH Member=Component C11 100n
+Added Member To Class: ClassName=U_Power_SCH Member=Component C12 100n
+Added Member To Class: ClassName=U_Power_SCH Member=Component C13 100n
+Added Member To Class: ClassName=U_Power_SCH Member=Component C14 100n
+Added Member To Class: ClassName=U_Power_SCH Member=Component C15 100n
+Added Member To Class: ClassName=U_Power_SCH Member=Component C16 100n
+Added Member To Class: ClassName=U_Power_SCH Member=Component C17 100n
+Added Member To Class: ClassName=U_Power_SCH Member=Component C18 100n
+Added Member To Class: ClassName=U_Power_SCH Member=Component C19 100n
+Added Member To Class: ClassName=U_Power_SCH Member=Component C20 100n
+Added Member To Class: ClassName=U_Power_SCH Member=Component C21 100n
+Added Member To Class: ClassName=U_Programming_Interface1 Member=Component C22_U_Programming_Interface1 (C22) 100n
+Added Member To Class: ClassName=U_Programming_Interface2 Member=Component C22_U_Programming_Interface2 (C22) 100n
+Added Member To Class: ClassName=U_Programming_Interface3 Member=Component C22_U_Programming_Interface3 (C22) 100n
+Added Member To Class: ClassName=U_Spin_SCH Member=Component C23 CC0603JRNP09BN200
+Added Member To Class: ClassName=U_Spin_SCH Member=Component C24 CC0603JRNP09BN200
+Added Member To Class: ClassName=U_Spin_SCH Member=Component C25 CC0603JRNP09BN200
+Added Member To Class: ClassName=U_Spin_SCH Member=Component C26 CC0603JRNP09BN200
+Added Member To Class: ClassName=U_Master_SCH Member=Component C27 CA050M2R20REB-0405
+Added Member To Class: ClassName=U_Master_SCH Member=Component C28 CA050M2R20REB-0405
+Added Member To Class: ClassName=U_Master_SCH Member=Component C29 CA050M2R20REB-0405
+Added Member To Class: ClassName=U_Master_SCH Member=Component C30 CC0603JRNP09BN200
+Added Member To Class: ClassName=U_Master_SCH Member=Component C31 CC0603JRNP09BN200
+Added Member To Class: ClassName=U_Master_SCH Member=Component C32 CA050M2R20REB-0405
+Added Member To Class: ClassName=U_Master_SCH Member=Component C33 CC0603JRNP09BN200
+Added Member To Class: ClassName=U_Master_SCH Member=Component C34 CC0603JRNP09BN200
+Added Member To Class: ClassName=U_Water_SCH Member=Component DD1 Atmega324P-20AU
+Added Member To Class: ClassName=U_Spin_SCH Member=Component DD2 Atmega324P-20AU
+Added Member To Class: ClassName=U_Master_SCH Member=Component DD3 Atmega324P-20AU
+Added Member To Class: ClassName=U_DCMotorDriver1 Member=Component HL1_U_DCMotorDriver1 (HL1) Red
+Added Member To Class: ClassName=U_DCMotorDriver2 Member=Component HL1_U_DCMotorDriver2 (HL1) Red
+Added Member To Class: ClassName=U_DCMotorDriver1 Member=Component HL2_U_DCMotorDriver1 (HL2) Red
+Added Member To Class: ClassName=U_DCMotorDriver2 Member=Component HL2_U_DCMotorDriver2 (HL2) Red
+Added Member To Class: ClassName=U_heatersControl Member=Component HL3 Red
+Added Member To Class: ClassName=U_heatersControl Member=Component HL4 Red
+Added Member To Class: ClassName=U_heatersControl Member=Component HL5 Red
+Added Member To Class: ClassName=U_valve—ontrol Member=Component HL6 Red
+Added Member To Class: ClassName=U_valve—ontrol Member=Component HL7 Red
+Added Member To Class: ClassName=U_valve—ontrol Member=Component HL8 Red
+Added Member To Class: ClassName=U_valve—ontrol Member=Component HL9 Red
+Added Member To Class: ClassName=U_Programming_Interface1 Member=Component HL10_U_Programming_Interface1 (HL10) Orange
+Added Member To Class: ClassName=U_Programming_Interface2 Member=Component HL10_U_Programming_Interface2 (HL10) Orange
+Added Member To Class: ClassName=U_Programming_Interface3 Member=Component HL10_U_Programming_Interface3 (HL10) Orange
+Added Member To Class: ClassName=U_Programming_Interface1 Member=Component HL11_U_Programming_Interface1 (HL11) Orange
+Added Member To Class: ClassName=U_Programming_Interface2 Member=Component HL11_U_Programming_Interface2 (HL11) Orange
+Added Member To Class: ClassName=U_Programming_Interface3 Member=Component HL11_U_Programming_Interface3 (HL11) Orange
+Added Member To Class: ClassName=U_ACMotor_Control Member=Component HL12 Red
+Added Member To Class: ClassName=U_ACMotor_Control Member=Component HL13 Red
+Added Member To Class: ClassName=U_DCMotorDriver1 Member=Component K1_U_DCMotorDriver1 (K1A) TRU-5VDC-SB-CL
+Added Member To Class: ClassName=U_DCMotorDriver2 Member=Component K1_U_DCMotorDriver2 (K1A) TRU-5VDC-SB-CL
+Added Member To Class: ClassName=U_DCMotorDriver1 Member=Component K2_U_DCMotorDriver1 (K2A) TRU-5VDC-SB-CL
+Added Member To Class: ClassName=U_DCMotorDriver2 Member=Component K2_U_DCMotorDriver2 (K2A) TRU-5VDC-SB-CL
+Added Member To Class: ClassName=U_heatersControl Member=Component K3 TRU-5VDC-SB-CL
+Added Member To Class: ClassName=U_heatersControl Member=Component K4 TRU-5VDC-SB-CL
+Added Member To Class: ClassName=U_heatersControl Member=Component K5 TRU-5VDC-SB-CL
+Added Member To Class: ClassName=U_valve—ontrol Member=Component K6 TRU-5VDC-SB-CL
+Added Member To Class: ClassName=U_valve—ontrol Member=Component K7 TRU-5VDC-SB-CL
+Added Member To Class: ClassName=U_valve—ontrol Member=Component K8 TRU-5VDC-SB-CL
+Added Member To Class: ClassName=U_valve—ontrol Member=Component K9 TRU-5VDC-SB-CL
+Added Member To Class: ClassName=U_ACMotor_Control Member=Component K10 TRU-5VDC-SB-CL
+Added Member To Class: ClassName=U_ACMotor_Control Member=Component K11 TRU-5VDC-SB-CL
+Added Member To Class: ClassName=U_Power_SCH Member=Component L1 MPZ1608S181A
+Added Member To Class: ClassName=U_Power_SCH Member=Component L2 MPZ1608S181A
+Added Member To Class: ClassName=U_Power_SCH Member=Component L3 MPZ1608S181A
+Added Member To Class: ClassName=U_Power_SCH Member=Component L4 MPZ1608S181A
+Added Member To Class: ClassName=U_Power_SCH Member=Component L5 MPZ1608S181A
+Added Member To Class: ClassName=U_Power_SCH Member=Component L6 MPZ1608S181A
+Added Member To Class: ClassName=U_Power_SCH Member=Component L7 MPZ1608S181A
+Added Member To Class: ClassName=U_Power_SCH Member=Component L8 MPZ1608S181A
+Added Member To Class: ClassName=U_Power_SCH Member=Component L9 MPZ1608S181A
+Added Member To Class: ClassName=U_Power_SCH Member=Component L10 MPZ1608S181A
+Added Member To Class: ClassName=U_Power_SCH Member=Component L11 MPZ1608S181A
+Added Member To Class: ClassName=U_Power_SCH Member=Component L12 MPZ1608S181A
+Added Member To Class: ClassName=U_Programming_Interface1 Member=Component L13_U_Programming_Interface1 (L13) MPZ1608S181A
+Added Member To Class: ClassName=U_Programming_Interface2 Member=Component L13_U_Programming_Interface2 (L13) MPZ1608S181A
+Added Member To Class: ClassName=U_Programming_Interface3 Member=Component L13_U_Programming_Interface3 (L13) MPZ1608S181A
+Added Member To Class: ClassName=U_Water_SCH Member=Component R1 10k
+Added Member To Class: ClassName=U_DCMotorDriver1 Member=Component R2_U_DCMotorDriver1 (R2) 10k
+Added Member To Class: ClassName=U_DCMotorDriver2 Member=Component R2_U_DCMotorDriver2 (R2) 10k
+Added Member To Class: ClassName=U_DCMotorDriver1 Member=Component R3_U_DCMotorDriver1 (R3) 10k
+Added Member To Class: ClassName=U_DCMotorDriver2 Member=Component R3_U_DCMotorDriver2 (R3) 10k
+Added Member To Class: ClassName=U_DCMotorDriver1 Member=Component R4_U_DCMotorDriver1 (R4) 200
+Added Member To Class: ClassName=U_DCMotorDriver2 Member=Component R4_U_DCMotorDriver2 (R4) 200
+Added Member To Class: ClassName=U_DCMotorDriver1 Member=Component R5_U_DCMotorDriver1 (R5) 200
+Added Member To Class: ClassName=U_DCMotorDriver2 Member=Component R5_U_DCMotorDriver2 (R5) 200
+Added Member To Class: ClassName=U_DCMotorDriver1 Member=Component R6_U_DCMotorDriver1 (R6) 220
+Added Member To Class: ClassName=U_DCMotorDriver2 Member=Component R6_U_DCMotorDriver2 (R6) 220
+Added Member To Class: ClassName=U_DCMotorDriver1 Member=Component R7_U_DCMotorDriver1 (R7) 220
+Added Member To Class: ClassName=U_DCMotorDriver2 Member=Component R7_U_DCMotorDriver2 (R7) 220
+Added Member To Class: ClassName=U_heatersControl Member=Component R8 10k
+Added Member To Class: ClassName=U_heatersControl Member=Component R9 10k
+Added Member To Class: ClassName=U_heatersControl Member=Component R10 10k
+Added Member To Class: ClassName=U_heatersControl Member=Component R11 200
+Added Member To Class: ClassName=U_heatersControl Member=Component R12 200
+Added Member To Class: ClassName=U_heatersControl Member=Component R13 200
+Added Member To Class: ClassName=U_heatersControl Member=Component R14 220
+Added Member To Class: ClassName=U_heatersControl Member=Component R15 220
+Added Member To Class: ClassName=U_heatersControl Member=Component R16 220
+Added Member To Class: ClassName=U_valve—ontrol Member=Component R17 10k
+Added Member To Class: ClassName=U_valve—ontrol Member=Component R18 10k
+Added Member To Class: ClassName=U_valve—ontrol Member=Component R19 10k
+Added Member To Class: ClassName=U_valve—ontrol Member=Component R20 10k
+Added Member To Class: ClassName=U_valve—ontrol Member=Component R21 200
+Added Member To Class: ClassName=U_valve—ontrol Member=Component R22 200
+Added Member To Class: ClassName=U_valve—ontrol Member=Component R23 200
+Added Member To Class: ClassName=U_valve—ontrol Member=Component R24 200
+Added Member To Class: ClassName=U_valve—ontrol Member=Component R25 220
+Added Member To Class: ClassName=U_valve—ontrol Member=Component R26 220
+Added Member To Class: ClassName=U_valve—ontrol Member=Component R27 220
+Added Member To Class: ClassName=U_valve—ontrol Member=Component R28 220
+Added Member To Class: ClassName=U_Programming_Interface1 Member=Component R29_U_Programming_Interface1 (R29) 220
+Added Member To Class: ClassName=U_Programming_Interface2 Member=Component R29_U_Programming_Interface2 (R29) 220
+Added Member To Class: ClassName=U_Programming_Interface3 Member=Component R29_U_Programming_Interface3 (R29) 220
+Added Member To Class: ClassName=U_Programming_Interface1 Member=Component R30_U_Programming_Interface1 (R30) 220
+Added Member To Class: ClassName=U_Programming_Interface2 Member=Component R30_U_Programming_Interface2 (R30) 220
+Added Member To Class: ClassName=U_Programming_Interface3 Member=Component R30_U_Programming_Interface3 (R30) 220
+Added Member To Class: ClassName=U_Programming_Interface1 Member=Component R31_U_Programming_Interface1 (R31) 220
+Added Member To Class: ClassName=U_Programming_Interface2 Member=Component R31_U_Programming_Interface2 (R31) 220
+Added Member To Class: ClassName=U_Programming_Interface3 Member=Component R31_U_Programming_Interface3 (R31) 220
+Added Member To Class: ClassName=U_Programming_Interface1 Member=Component R32_U_Programming_Interface1 (R32) 220
+Added Member To Class: ClassName=U_Programming_Interface2 Member=Component R32_U_Programming_Interface2 (R32) 220
+Added Member To Class: ClassName=U_Programming_Interface3 Member=Component R32_U_Programming_Interface3 (R32) 220
+Added Member To Class: ClassName=TopSCH Member=Component R33 4,7k
+Added Member To Class: ClassName=TopSCH Member=Component R34 4,7k
+Added Member To Class: ClassName=U_ACMotor_Control Member=Component R35 10k
+Added Member To Class: ClassName=U_ACMotor_Control Member=Component R36 10k
+Added Member To Class: ClassName=U_ACMotor_Control Member=Component R37 200
+Added Member To Class: ClassName=U_ACMotor_Control Member=Component R38 200
+Added Member To Class: ClassName=U_ACMotor_Control Member=Component R39 220
+Added Member To Class: ClassName=U_ACMotor_Control Member=Component R40 220
+Added Member To Class: ClassName=U_Programming_Interface1 Member=Component SA1_U_Programming_Interface1 (SA1) DTSM20-4.3
+Added Member To Class: ClassName=U_Programming_Interface2 Member=Component SA1_U_Programming_Interface2 (SA1) DTSM20-4.3
+Added Member To Class: ClassName=U_Programming_Interface3 Member=Component SA1_U_Programming_Interface3 (SA1) DTSM20-4.3
+Added Member To Class: ClassName=U_DCMotorDriver1 Member=Component VD1_U_DCMotorDriver1 (VD1) 1N4001
+Added Member To Class: ClassName=U_DCMotorDriver2 Member=Component VD1_U_DCMotorDriver2 (VD1) 1N4001
+Added Member To Class: ClassName=U_DCMotorDriver1 Member=Component VD2_U_DCMotorDriver1 (VD2) 1N4001
+Added Member To Class: ClassName=U_DCMotorDriver2 Member=Component VD2_U_DCMotorDriver2 (VD2) 1N4001
+Added Member To Class: ClassName=U_heatersControl Member=Component VD3 1N4001
+Added Member To Class: ClassName=U_heatersControl Member=Component VD4 1N4001
+Added Member To Class: ClassName=U_heatersControl Member=Component VD5 1N4001
+Added Member To Class: ClassName=U_valve—ontrol Member=Component VD6 1N4001
+Added Member To Class: ClassName=U_valve—ontrol Member=Component VD7 1N4001
+Added Member To Class: ClassName=U_valve—ontrol Member=Component VD8 1N4001
+Added Member To Class: ClassName=U_valve—ontrol Member=Component VD9 1N4001
+Added Member To Class: ClassName=U_ACMotor_Control Member=Component VD10 1N4001
+Added Member To Class: ClassName=U_ACMotor_Control Member=Component VD11 1N4001
+Added Member To Class: ClassName=U_DCMotorDriver1 Member=Component VT1_U_DCMotorDriver1 (VT1) 2N7002
+Added Member To Class: ClassName=U_DCMotorDriver2 Member=Component VT1_U_DCMotorDriver2 (VT1) 2N7002
+Added Member To Class: ClassName=U_DCMotorDriver1 Member=Component VT2_U_DCMotorDriver1 (VT2) 2N7002
+Added Member To Class: ClassName=U_DCMotorDriver2 Member=Component VT2_U_DCMotorDriver2 (VT2) 2N7002
+Added Member To Class: ClassName=U_heatersControl Member=Component VT3 2N7002
+Added Member To Class: ClassName=U_heatersControl Member=Component VT4 2N7002
+Added Member To Class: ClassName=U_heatersControl Member=Component VT5 2N7002
+Added Member To Class: ClassName=U_valve—ontrol Member=Component VT6 2N7002
+Added Member To Class: ClassName=U_valve—ontrol Member=Component VT7 2N7002
+Added Member To Class: ClassName=U_valve—ontrol Member=Component VT8 2N7002
+Added Member To Class: ClassName=U_valve—ontrol Member=Component VT9 2N7002
+Added Member To Class: ClassName=U_Programming_Interface1 Member=Component VT10_U_Programming_Interface1 (VT10) 2N7002
+Added Member To Class: ClassName=U_Programming_Interface2 Member=Component VT10_U_Programming_Interface2 (VT10) 2N7002
+Added Member To Class: ClassName=U_Programming_Interface3 Member=Component VT10_U_Programming_Interface3 (VT10) 2N7002
+Added Member To Class: ClassName=U_Programming_Interface1 Member=Component VT11_U_Programming_Interface1 (VT11) 2N7002
+Added Member To Class: ClassName=U_Programming_Interface2 Member=Component VT11_U_Programming_Interface2 (VT11) 2N7002
+Added Member To Class: ClassName=U_Programming_Interface3 Member=Component VT11_U_Programming_Interface3 (VT11) 2N7002
+Added Member To Class: ClassName=U_ACMotor_Control Member=Component VT12 2N7002
+Added Member To Class: ClassName=U_ACMotor_Control Member=Component VT13 2N7002
+Added Member To Class: ClassName=U_Power_SCH Member=Component XS1 PLS-02R
+Added Member To Class: ClassName=U_Power_SCH Member=Component XS2 PLS-02R
+Added Member To Class: ClassName=U_Programming_Interface1 Member=Component XS3_U_Programming_Interface1 (XS3) IDC-06M
+Added Member To Class: ClassName=U_Programming_Interface2 Member=Component XS3_U_Programming_Interface2 (XS3) IDC-06M
+Added Member To Class: ClassName=U_Programming_Interface3 Member=Component XS3_U_Programming_Interface3 (XS3) IDC-06M
+Added Member To Class: ClassName=TopSCH Member=Component XS4 PLS-02R
+Added Member To Class: ClassName=TopSCH Member=Component XS5 PLS-08R
+Added Member To Class: ClassName=U_Water_SCH Member=Component XT1 330-021-12
+Added Member To Class: ClassName=U_Water_SCH Member=Component XT2 330-021-12
+Added Member To Class: ClassName=U_Water_SCH Member=Component XT3 330-021-12
+Added Member To Class: ClassName=U_Water_SCH Member=Component XT4 330-031-12
+Added Member To Class: ClassName=U_Water_SCH Member=Component XT5 330-031-12
+Added Member To Class: ClassName=U_DCMotorDriver1 Member=Component XT6_U_DCMotorDriver1 (XT6) 330-021-12
+Added Member To Class: ClassName=U_DCMotorDriver2 Member=Component XT6_U_DCMotorDriver2 (XT6) 330-021-12
+Added Member To Class: ClassName=U_heatersControl Member=Component XT7 330-021-12
+Added Member To Class: ClassName=U_heatersControl Member=Component XT8 305-021-12
+Added Member To Class: ClassName=U_heatersControl Member=Component XT9 305-021-12
+Added Member To Class: ClassName=U_valve—ontrol Member=Component XT10 305-021-12
+Added Member To Class: ClassName=U_valve—ontrol Member=Component XT11 305-021-12
+Added Member To Class: ClassName=U_valve—ontrol Member=Component XT12 305-021-12
+Added Member To Class: ClassName=U_valve—ontrol Member=Component XT13 305-021-12
+Added Member To Class: ClassName=U_Spin_SCH Member=Component XT14 330-031-12
+Added Member To Class: ClassName=U_Spin_SCH Member=Component XT15 330-031-12
+Added Member To Class: ClassName=U_Spin_SCH Member=Component XT16 330-031-12
+Added Member To Class: ClassName=U_Spin_SCH Member=Component XT17 330-031-12
+Added Member To Class: ClassName=U_Spin_SCH Member=Component XT18 330-031-12
+Added Member To Class: ClassName=U_ACMotor_Control Member=Component XT19 305-021-12
+Added Member To Class: ClassName=U_ACMotor_Control Member=Component XT20 305-021-12
+Added Member To Class: ClassName=U_Master_SCH Member=Component XT21 330-031-12
+Added Member To Class: ClassName=U_Master_SCH Member=Component XT22 330-031-12
+Added Member To Class: ClassName=U_Master_SCH Member=Component XT23 330-031-12
+Added Member To Class: ClassName=U_Master_SCH Member=Component XT24 330-031-12
+Added Room: Name=TopSCH
+Added Room: Name=U_ACMotor_Control
+Added Room: Name=U_DCMotorDriver1
+Added Room: Name=U_DCMotorDriver2
+Added Room: Name=U_heatersControl
+Added Room: Name=U_Master_SCH
+Added Room: Name=U_Power_SCH
+Added Room: Name=U_Programming_Interface1
+Added Room: Name=U_Programming_Interface2
+Added Room: Name=U_Programming_Interface3
+Added Room: Name=U_Spin_SCH
+Added Room: Name=U_valve—ontrol
+Added Room: Name=U_Water_SCH

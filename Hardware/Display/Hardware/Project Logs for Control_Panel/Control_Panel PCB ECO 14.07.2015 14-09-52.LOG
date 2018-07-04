@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetDD1_1 Pin=VT1-1
+Removed Pin From Net: NetName=NetDD1_2 Pin=VT2-1
+Added Component: Designator=R38(SMDRC0805)
+Added Component: Designator=R39(SMDRC0805)
+Added Pin To Net: NetName=NetDD1_1 Pin=R38-1
+Added Pin To Net: NetName=NetDD1_2 Pin=R39-1
+Added Pin To Net: NetName=NetR38_2 Pin=R38-2
+Added Pin To Net: NetName=NetR38_2 Pin=VT1-1
+Added Net: Name=NetR38_2
+Added Pin To Net: NetName=NetR39_2 Pin=R39-2
+Added Pin To Net: NetName=NetR39_2 Pin=VT2-1
+Added Net: Name=NetR39_2
+Added Member To Class: ClassName=U_Control_Panel Member=Component R38 270
+Added Member To Class: ClassName=U_Control_Panel Member=Component R39 270
+Added Room: Name=TopShem
+Added Room: Name=TransistorArray
+Added Room: Name=U_Control_Panel
+Added Room: Name=U_Control_Panel_Part2
+Added Room: Name=U_Control_Panel_Power

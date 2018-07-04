@@ -1,0 +1,20 @@
+Change Net Name : Old Net Name=LED_AN4 New Net Name=NetDD2_22
+Change Net Name : Old Net Name=LED_AN6 New Net Name=NetDD2_24
+Added Pin To Net: NetName=NetDD2_15 Pin=DD2-15
+Added Pin To Net: NetName=NetDD2_15 Pin=R13-1
+Added Net: Name=NetDD2_15
+Added Pin To Net: NetName=NetDD2_16 Pin=DD2-16
+Added Pin To Net: NetName=NetDD2_16 Pin=R15-1
+Added Net: Name=NetDD2_16
+Added Pin To Net: NetName=NetDD2_21 Pin=DD2-21
+Added Pin To Net: NetName=NetDD2_21 Pin=R16-1
+Added Net: Name=NetDD2_21
+Added Pin To Net: NetName=NetDD2_23 Pin=DD2-23
+Added Pin To Net: NetName=NetDD2_23 Pin=R18-1
+Added Net: Name=NetDD2_23
+Added Pin To Net: NetName=NetDD2_25 Pin=DD2-25
+Added Pin To Net: NetName=NetDD2_25 Pin=R20-1
+Added Net: Name=NetDD2_25
+Added Pin To Net: NetName=NetDD2_26 Pin=DD2-26
+Added Pin To Net: NetName=NetDD2_26 Pin=R21-1
+Added Net: Name=NetDD2_26

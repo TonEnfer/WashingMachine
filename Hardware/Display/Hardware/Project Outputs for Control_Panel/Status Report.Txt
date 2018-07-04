@@ -1,0 +1,13 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Control_Panel.PrjPCB]
+   Generated File[Control_Panel.GTL]
+   Generated File[Control_Panel.RUL]
+   Generated File[Control_Panel.EXTREP]
+   Generated File[Control_Panel.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 23:43:32 On 29.05.2017

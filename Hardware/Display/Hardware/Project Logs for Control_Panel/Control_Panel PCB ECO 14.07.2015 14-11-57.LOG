@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetDD2_1 Pin=VT11-1
+Removed Pin From Net: NetName=NetDD2_2 Pin=VT12-1
+Added Component: Designator=R40(SMDRC0805)
+Added Component: Designator=R41(SMDRC0805)
+Added Pin To Net: NetName=NetDD2_1 Pin=R40-1
+Added Pin To Net: NetName=NetDD2_2 Pin=R41-1
+Added Pin To Net: NetName=NetR40_2 Pin=R40-2
+Added Pin To Net: NetName=NetR40_2 Pin=VT11-1
+Added Net: Name=NetR40_2
+Added Pin To Net: NetName=NetR41_2 Pin=R41-2
+Added Pin To Net: NetName=NetR41_2 Pin=VT12-1
+Added Net: Name=NetR41_2
+Added Member To Class: ClassName=U_Control_Panel_Part2 Member=Component R40 270
+Added Member To Class: ClassName=U_Control_Panel_Part2 Member=Component R41 270

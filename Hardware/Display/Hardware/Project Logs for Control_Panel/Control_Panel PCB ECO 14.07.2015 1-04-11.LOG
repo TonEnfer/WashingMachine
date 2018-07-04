@@ -1,0 +1,21 @@
+Added Pin To Net: NetName=INT10 Pin=DD2-11
+Added Pin To Net: NetName=INT11 Pin=DD2-12
+Added Pin To Net: NetName=+5V Pin=HL12-1
+Added Pin To Net: NetName=+5V Pin=HL13-1
+Added Pin To Net: NetName=GND Pin=HL13-2
+Added Pin To Net: NetName=NetHL13_2 Pin=HL13-2
+Added Pin To Net: NetName=NetHL11_2 Pin=R11-2
+Added Pin To Net: NetName=NetHL13_2 Pin=R11-2
+Added Pin To Net: NetName=NetDD2_1 Pin=VT11-1
+Added Pin To Net: NetName=NetR35_1 Pin=VT11-1
+Added Pin To Net: NetName=GND Pin=VT11-2
+Added Pin To Net: NetName=NetDD2_2 Pin=VT12-1
+Added Pin To Net: NetName=NetR34_1 Pin=VT12-1
+Added Pin To Net: NetName=GND Pin=VT12-2
+Added Pin To Net: NetName=SCL1 Pin=XS3-5
+Added Pin To Net: NetName=SDA1 Pin=XS3-6
+Added Room: Name=TopShem
+Added Room: Name=TransistorArray
+Added Room: Name=U_Control_Panel
+Added Room: Name=U_Control_Panel_Part2
+Added Room: Name=U_Control_Panel_Power

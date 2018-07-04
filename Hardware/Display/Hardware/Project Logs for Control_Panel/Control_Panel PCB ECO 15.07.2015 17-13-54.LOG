@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=LED_K[1..4] Member=LED_A2
+Removed Member From Class: ClassName=LED_K[1..4] Member=LED_A3
+Removed Member From Class: ClassName=LED_A[1..8] Member=LED_K1
+Removed Member From Class: ClassName=LED_A[1..8] Member=LED_K4
+Change Net Name : Old Net Name=NetDD2_37 New Net Name=SENS9
+Added Member To Class: ClassName=LED_A[1..8] Member=Element[1]: LED_A
+Added Member To Class: ClassName=LED_A[1..8] Member=Element[4]: LED_A
+Added Member To Class: ClassName=LED_K[1..4] Member=Element[2]: LED_K
+Added Member To Class: ClassName=LED_K[1..4] Member=Element[3]: LED_K

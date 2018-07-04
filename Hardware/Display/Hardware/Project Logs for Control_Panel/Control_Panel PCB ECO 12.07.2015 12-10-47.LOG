@@ -1,0 +1,165 @@
+Removed Pin From Net: NetName=LED8 Pin=DD1-15
+Removed Pin From Net: NetName=LED7 Pin=DD1-16
+Removed Pin From Net: NetName=LED5 Pin=DD1-21
+Removed Pin From Net: NetName=LED6 Pin=DD1-22
+Removed Pin From Net: NetName=LED4 Pin=DD1-23
+Removed Pin From Net: NetName=LED3 Pin=DD1-24
+Removed Pin From Net: NetName=LED2 Pin=DD1-25
+Removed Pin From Net: NetName=LED1 Pin=DD1-26
+Removed Pin From Net: NetName=SENS4 Pin=DD1-30
+Removed Pin From Net: NetName=SENS3 Pin=DD1-31
+Removed Pin From Net: NetName=SENS5 Pin=DD1-32
+Removed Pin From Net: NetName=SENS2 Pin=DD1-33
+Removed Pin From Net: NetName=SENS1 Pin=DD1-34
+Removed Pin From Net: NetName=LED_AN4 Pin=HG1-22
+Removed Pin From Net: NetName=LED_AN3 Pin=HG1-23
+Removed Pin From Net: NetName=LED_AN2 Pin=HG1-31
+Added Component: Designator=C1(SMDRC0805)
+Added Component: Designator=C?(SMDRC0805)
+Added Component: Designator=C?(SMDRC0805)
+Added Component: Designator=C?(SMDRC0805)
+Added Component: Designator=C?(SMDRC0805)
+Added Component: Designator=C?(SMDRC0805)
+Added Component: Designator=DD?(44ML_M)
+Added Component: Designator=DD?(44ML_M)
+Added Component: Designator=HL1(DIOMELF2012M)
+Added Component: Designator=HL2(DIOMELF2012M)
+Added Component: Designator=L1(INDC0603X03M)
+Added Component: Designator=L?(INDC0603X03M)
+Added Component: Designator=L?(INDC0603X03M)
+Added Component: Designator=L?(INDC0603X03M)
+Added Component: Designator=L?(INDC0603X03M)
+Added Component: Designator=R1(SMDRC0805)
+Added Component: Designator=R4(SMDRC0805)
+Added Component: Designator=SA1(DTSM20)
+Added Component: Designator=SL1(Bolt 6mm)
+Added Component: Designator=VT2(SOT23 (TO-236AB))
+Added Component: Designator=VT3(SOT23 (TO-236AB))
+Added Component: Designator=XS2(IDC-06M)
+Added Component: Designator=XT?(305-021-12)
+Added Component: Designator=XT?(305-021-12)
+Added Component: Designator=XT?(305-021-12)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=LED_AN2 Pin=C?-1
+Added Pin To Net: NetName=LED_AN3 Pin=C?-1
+Added Pin To Net: NetName=LED_AN4 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=LED1 Pin=DD1-15
+Added Pin To Net: NetName=LED2 Pin=DD1-16
+Added Pin To Net: NetName=LED3 Pin=DD1-21
+Added Pin To Net: NetName=LED4 Pin=DD1-22
+Added Pin To Net: NetName=LED5 Pin=DD1-23
+Added Pin To Net: NetName=LED6 Pin=DD1-24
+Added Pin To Net: NetName=LED7 Pin=DD1-25
+Added Pin To Net: NetName=LED8 Pin=DD1-26
+Added Pin To Net: NetName=SENS1 Pin=DD1-30
+Added Pin To Net: NetName=SENS2 Pin=DD1-31
+Added Pin To Net: NetName=SENS3 Pin=DD1-32
+Added Pin To Net: NetName=SENS4 Pin=DD1-33
+Added Pin To Net: NetName=SENS5 Pin=DD1-34
+Added Pin To Net: NetName=SCK Pin=DD?-1
+Added Pin To Net: NetName=MOSI Pin=DD?-2
+Added Pin To Net: NetName=MISO Pin=DD?-3
+Added Pin To Net: NetName=RESET Pin=DD?-4
+Added Pin To Net: NetName=GND Pin=DD?-6
+Added Pin To Net: NetName=LED_K1 Pin=DD?-15
+Added Pin To Net: NetName=LED_K2 Pin=DD?-16
+Added Pin To Net: NetName=LED_AN4 Pin=DD?-17
+Added Pin To Net: NetName=GND Pin=DD?-18
+Added Pin To Net: NetName=LED_K3 Pin=DD?-21
+Added Pin To Net: NetName=LED_K4 Pin=DD?-22
+Added Pin To Net: NetName=LED_K5 Pin=DD?-23
+Added Pin To Net: NetName=LED_K6 Pin=DD?-24
+Added Pin To Net: NetName=LED_K7 Pin=DD?-25
+Added Pin To Net: NetName=LED_K8 Pin=DD?-26
+Added Pin To Net: NetName=GND Pin=DD?-28
+Added Pin To Net: NetName=LED_AN2 Pin=DD?-29
+Added Pin To Net: NetName=LED_A1 Pin=DD?-34
+Added Pin To Net: NetName=LED_AN3 Pin=DD?-38
+Added Pin To Net: NetName=GND Pin=DD?-39
+Added Pin To Net: NetName=+5V Pin=HL1-1
+Added Pin To Net: NetName=+5V Pin=HL2-1
+Added Pin To Net: NetName=+5V Pin=L1-1
+Added Pin To Net: NetName=+5V Pin=L?-1
+Added Pin To Net: NetName=+5V Pin=L?-1
+Added Pin To Net: NetName=+5V Pin=L?-1
+Added Pin To Net: NetName=+5V Pin=L?-1
+Added Pin To Net: NetName=LED_AN3 Pin=L?-2
+Added Pin To Net: NetName=LED_AN4 Pin=L?-2
+Added Pin To Net: NetName=RESET Pin=SA1-1
+Added Pin To Net: NetName=RESET Pin=SA1-1
+Added Pin To Net: NetName=GND Pin=SA1-2
+Added Pin To Net: NetName=GND Pin=SA1-2
+Added Pin To Net: NetName=MOSI Pin=VT2-1
+Added Pin To Net: NetName=GND Pin=VT2-2
+Added Pin To Net: NetName=MISO Pin=VT3-1
+Added Pin To Net: NetName=GND Pin=VT3-2
+Added Pin To Net: NetName=MISO Pin=XS2-1
+Added Pin To Net: NetName=SCK Pin=XS2-3
+Added Pin To Net: NetName=MOSI Pin=XS2-4
+Added Pin To Net: NetName=RESET Pin=XS2-5
+Added Pin To Net: NetName=GND Pin=XS2-6
+Change Net Name : Old Net Name=LED_AN2 New Net Name=NetC?_1
+Change Net Name : Old Net Name=LED_AN3 New Net Name=NetC?_1
+Change Net Name : Old Net Name=LED_AN4 New Net Name=NetC?_1
+Added Pin To Net: NetName=LED_A2 Pin=DD?-35
+Added Pin To Net: NetName=LED_A2 Pin=HG1-31
+Added Net: Name=LED_A2
+Added Pin To Net: NetName=LED_A3 Pin=DD?-36
+Added Pin To Net: NetName=LED_A3 Pin=HG1-23
+Added Net: Name=LED_A3
+Added Pin To Net: NetName=LED_A4 Pin=DD?-37
+Added Pin To Net: NetName=LED_A4 Pin=HG1-22
+Added Net: Name=LED_A4
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=DD?-27
+Added Pin To Net: NetName=NetC?_2 Pin=L?-2
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetDD?_9 Pin=DD?-9
+Added Pin To Net: NetName=NetDD?_9 Pin=XT?-1
+Added Net: Name=NetDD?_9
+Added Pin To Net: NetName=NetDD?_10 Pin=DD?-10
+Added Pin To Net: NetName=NetDD?_10 Pin=XT?-2
+Added Net: Name=NetDD?_10
+Added Pin To Net: NetName=NetDD?_11 Pin=DD?-11
+Added Pin To Net: NetName=NetDD?_11 Pin=XT?-1
+Added Net: Name=NetDD?_11
+Added Pin To Net: NetName=NetDD?_12 Pin=DD?-12
+Added Pin To Net: NetName=NetDD?_12 Pin=XT?-2
+Added Net: Name=NetDD?_12
+Added Pin To Net: NetName=NetDD?_19 Pin=DD?-19
+Added Pin To Net: NetName=NetDD?_19 Pin=XT?-1
+Added Net: Name=NetDD?_19
+Added Pin To Net: NetName=NetDD?_20 Pin=DD?-20
+Added Pin To Net: NetName=NetDD?_20 Pin=XT?-2
+Added Net: Name=NetDD?_20
+Added Pin To Net: NetName=NetDD?_30 Pin=DD?-30
+Added Pin To Net: NetName=NetDD?_30 Pin=SL1-1
+Added Net: Name=NetDD?_30
+Change Class Name : Old Net Name=Sheet1 New Net Name=Control_Panel_Part2
+Change Class Name : Old Net Name=Sheet2 New Net Name=Control_Panel_Power
+Added Class: Name=LED_A[1..4]
+Added Class: Name=SENS[1..8]
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component C1 100n
+Added Member To Class: ClassName=Control_Panel_Power Member=Component C? 100n
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component DD? Atmega324P-20AU
+Added Member To Class: ClassName=Control_Panel_Power Member=Component DD? Atmega324P-20AU
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component HL1 Orange
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component HL2 Orange
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component L1 MPZ1608S181A
+Added Member To Class: ClassName=Control_Panel_Power Member=Component L? MPZ1608S181A
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component R1 220
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component R4 220
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component SA1 DTSM20-4.3
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component SL1 Touch_sensor
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component VT2 2N7002
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component VT3 2N7002
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component XS2 IDC-06M
+Added Member To Class: ClassName=Control_Panel_Part2 Member=Component XT? 305-021-12
+Added Room: Name=Control_Panel
+Added Room: Name=Control_Panel_Part2
+Added Room: Name=Control_Panel_Power

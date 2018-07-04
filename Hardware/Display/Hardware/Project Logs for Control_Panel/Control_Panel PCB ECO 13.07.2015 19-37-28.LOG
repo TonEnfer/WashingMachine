@@ -1,0 +1,36 @@
+Added Component: Designator=HL12(DIOMELF2012M)
+Added Component: Designator=HL13(DIOMELF2012M)
+Added Component: Designator=R11(SMDRC0805)
+Added Component: Designator=R12(SMDRC0805)
+Added Component: Designator=R34(SMDRC0805)
+Added Component: Designator=R35(SMDRC0805)
+Added Component: Designator=VT11(SOT23 (TO-236AB))
+Added Component: Designator=VT12(SOT23 (TO-236AB))
+Added Pin To Net: NetName=+5V Pin=HL12-1
+Added Pin To Net: NetName=+5V Pin=HL13-1
+Added Pin To Net: NetName=SCL1 Pin=R34-2
+Added Pin To Net: NetName=SDA1 Pin=R35-2
+Added Pin To Net: NetName=GND Pin=VT11-2
+Added Pin To Net: NetName=GND Pin=VT12-2
+Added Pin To Net: NetName=NetHL13_2 Pin=HL13-2
+Added Pin To Net: NetName=NetHL13_2 Pin=R11-2
+Added Net: Name=NetHL13_2
+Added Pin To Net: NetName=NetR34_1 Pin=R34-1
+Added Pin To Net: NetName=NetR34_1 Pin=VT12-1
+Added Net: Name=NetR34_1
+Added Pin To Net: NetName=NetR35_1 Pin=R35-1
+Added Pin To Net: NetName=NetR35_1 Pin=VT11-1
+Added Net: Name=NetR35_1
+Added Member To Class: ClassName=TopShem Member=Component HL12 Orange
+Added Member To Class: ClassName=TopShem Member=Component HL13 Orange
+Added Member To Class: ClassName=TopShem Member=Component R11 220
+Added Member To Class: ClassName=TopShem Member=Component R12 220
+Added Member To Class: ClassName=TopShem Member=Component R34 270
+Added Member To Class: ClassName=TopShem Member=Component R35 270
+Added Member To Class: ClassName=TopShem Member=Component VT11 2N7002
+Added Member To Class: ClassName=TopShem Member=Component VT12 2N7002
+Added Room: Name=TopShem
+Added Room: Name=TransistorArray
+Added Room: Name=U_Control_Panel
+Added Room: Name=U_Control_Panel_Part2
+Added Room: Name=U_Control_Panel_Power
